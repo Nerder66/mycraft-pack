@@ -3,6 +3,7 @@ hash-format = "sha256"
 [[files]]
 file = "config/DistantHorizons.toml"
 hash = "eeee4fbbc86ddd148febdfa118afc2ebbbd33f4e3a7f1ec50f387edc914f808c"
+preserve = true
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
@@ -35,6 +36,7 @@ hash = "873292e97e63271db486fae155def041c722c1eed96c9c5cba718763040f33f7"
 [[files]]
 file = "config/ars_elemental-client.toml"
 hash = "8e110b4e79206ba0ab77eae7a0581ad19cdd1eb43aa2e85ce9c3686f82253fb6"
+preserve = true
 
 [[files]]
 file = "config/ars_elemental-common.toml"
@@ -47,6 +49,7 @@ hash = "4f98204e70693b7e30751378032d376e6c48dbd4f1a037bd73850f091df0d29e"
 [[files]]
 file = "config/ars_nouveau-client.toml"
 hash = "0e6242700fd57f22e879bd6aa60f4305f368d46ad77e102a947fbf5ad0e78706"
+preserve = true
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
@@ -61,32 +64,13 @@ file = "config/ars_nouveau/doc_data.json"
 hash = "081b1b98b191d81c4ff5b49760b51f491bb330a6ac45dfac831a3a6313cb072f"
 
 [[files]]
-file = "config/ars_nouveau/search_index/_7.cfe"
-hash = "7e141e59506ba842519095d3332b78b041bae3f8c82d514063c5bb62440bd1e8"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_7.cfs"
-hash = "e8e858b931deb013728965484ae93a3b8016fd2f954aba7ed580f420c4ae47f5"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_7.si"
-hash = "b1a9bbe80d7f72e33f925a81b10944a63cb3a256a7a89ea7ff966edcbf0618fc"
-
-[[files]]
-file = "config/ars_nouveau/search_index/segments_8"
-hash = "5286a42f3d99344d5db523967c1e7ebaa043a7b7e68381a8c652c1741dedbaa9"
-
-[[files]]
-file = "config/ars_nouveau/search_index/write.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/ars_technica-common.toml"
 hash = "6109120567b4f26d042b0b1ae271dcd1f8186269fbf4828964b961308bf0b9ee"
 
 [[files]]
 file = "config/cataclysm-client.toml"
 hash = "a83db10f4450e21761559465b75388c115d3f0d899b368e1124f380d49b737a8"
+preserve = true
 
 [[files]]
 file = "config/cataclysm-common.toml"
@@ -95,6 +79,7 @@ hash = "61926b9ce81d6d44ac25e367b67e5642235fa026e6dddd6be54e0c2965570cc7"
 [[files]]
 file = "config/create-client.toml"
 hash = "cce3eab1a290cc1f0eada00031f0577f661f883aee3438cf1139283c65d1f319"
+preserve = true
 
 [[files]]
 file = "config/create-common.toml"
@@ -103,6 +88,7 @@ hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
 [[files]]
 file = "config/create_dragons_plus-client.toml"
 hash = "cf30f0e99ef65fe80e80481bf9aaafefdbbf97adb84c0c3611ac2d9ca3cf8a28"
+preserve = true
 
 [[files]]
 file = "config/create_dragons_plus-common.toml"
@@ -111,6 +97,7 @@ hash = "134e5d1beb5e8cc7f22e20178c2a995ab4e1e83ddeca8048739ed000fc3a964e"
 [[files]]
 file = "config/create_enchantment_industry-client.toml"
 hash = "f1c6a25f81ec0f112e431b9064088e641c37b33a1aa16eed2bc4d03884c2b39c"
+preserve = true
 
 [[files]]
 file = "config/create_enchantment_industry-common.toml"
@@ -119,6 +106,7 @@ hash = "ba7ae48de21489764763fbcfa70a0751114cec08af0d0dfebee03af1f5892ca1"
 [[files]]
 file = "config/curios-client.toml"
 hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
+preserve = true
 
 [[files]]
 file = "config/curios-common.toml"
@@ -131,6 +119,7 @@ hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
 [[files]]
 file = "config/flywheel-client.toml"
 hash = "398730a2a216dfdae9aa7e2a8f54040f85e2a7f8faaedf9db09c28914555df5a"
+preserve = true
 
 [[files]]
 file = "config/fml.toml"
@@ -163,6 +152,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 [[files]]
 file = "config/iris.properties"
 hash = "3314c0176b9f625c1d373e11f7dddef0c513ca960a9aabf4c11b6c4a7124a442"
+preserve = true
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -187,38 +177,42 @@ hash = "3c7c4a21fe36fc0a8df62d11a619d8dc69a7547af73edb35b397d30219171cab"
 [[files]]
 file = "config/jei/blacklist.json"
 hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+preserve = true
 
 [[files]]
 file = "config/jei/client/default/jei-client.ini"
 hash = "7e410776dfa65503cac6eb55ecd89ddce4c2c2c1b862e6cf6e7649ca40b00cda"
+preserve = true
 
 [[files]]
 file = "config/jei/client/default/jei-colors.ini"
 hash = "c6d4ae48280627d04a7ae2b6d3db65e71d73670a72732f5aed9f4cfaac3837c7"
+preserve = true
 
 [[files]]
 file = "config/jei/client/default/jei-debug.ini"
 hash = "376cc883cac002d07792f209f7bc1915ea7fa8822effc67734f1589bab9bb806"
+preserve = true
 
 [[files]]
 file = "config/jei/client/default/jei-mod-id-format.ini"
 hash = "2e5119684366f75bc8a6df871381c6094a812cadd0d5ed0547405b5f1353f9e1"
+preserve = true
 
 [[files]]
 file = "config/jei/client/ingredient-list-mod-sort-order.ini"
 hash = "78a89c31147a7e93db13cb071c4e19bd8edc650841f23a808312e0055a2da7f2"
+preserve = true
 
 [[files]]
 file = "config/jei/client/ingredient-list-type-sort-order.ini"
 hash = "9c6c1c0e70a84a9f59399679f6ff5bc77cc1c39571d0a5453d2afa7d29fbcf51"
+preserve = true
 
 [[files]]
 file = "config/jei/client/recipe-category-sort-order.ini"
 hash = "b37e3044cdab575c32c5939676cc859a1347955f2d54eabcd092d167029f37be"
-
-[[files]]
-file = "config/jei/world/server/Minecraft Server (localhost)/lookupHistory.json"
-hash = "555fb63f4bd7f0820a912f832c23696a6f593a60764c7dc5544160956304bd87"
+preserve = true
 
 [[files]]
 file = "config/mezz_config/client/default/settings.ini"
@@ -235,6 +229,7 @@ hash = "cda1de84880f439d9c8a025861a483d51972e76b8a5a6a253dd0196aec821ac5"
 [[files]]
 file = "config/mowziesmobs-client.toml"
 hash = "06947297f3c51ce24601dca44f19e89bc2aac5c0aadc2cb40eb30ade4f2194c5"
+preserve = true
 
 [[files]]
 file = "config/mowziesmobs-common.toml"
@@ -243,6 +238,7 @@ hash = "0bb285aebae71e1711258b0e80c49e9e23ea68b9c86386d192f2c9274aceff1e"
 [[files]]
 file = "config/neoforge-client.toml"
 hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
+preserve = true
 
 [[files]]
 file = "config/neoforge-common.toml"
@@ -251,6 +247,7 @@ hash = "8575eb5db529376141370dc9cf80bc762c4c70c22f538d3c89254b592e329f73"
 [[files]]
 file = "config/patchouli-client.toml"
 hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
+preserve = true
 
 [[files]]
 file = "config/placebo.cfg"
@@ -259,10 +256,12 @@ hash = "eb7e9906d126543f03c2257ca98efa4b845d1e7479dc8b069a12b194c86debcf"
 [[files]]
 file = "config/ponder-client.toml"
 hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
+preserve = true
 
 [[files]]
 file = "config/sable-client.toml"
 hash = "5f816a5d7d32cc56ff3f26e3adbb25c6bfea6d81aba088cca9e00d42d73753e4"
+preserve = true
 
 [[files]]
 file = "config/sable-common.toml"
@@ -275,6 +274,7 @@ hash = "8d3b81bd9c12cefce965196bc430d22e9b90733f1bca7acec3734f3d52eb49c1"
 [[files]]
 file = "config/simulated-client.toml"
 hash = "aaeeaedb8179a8e2404a468c0b62fee76dd5becb6c87d870f206733e20009991"
+preserve = true
 
 [[files]]
 file = "config/sodium-fingerprint.json"
@@ -295,6 +295,7 @@ hash = "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
 [[files]]
 file = "config/sophisticatedcore-client.toml"
 hash = "12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f"
+preserve = true
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
@@ -315,54 +316,67 @@ hash = "5ea3931a0119ccf5f495db5299be1ef5716f5eed478236fb0ba576b6a9ee8fc0"
 [[files]]
 file = "config/xaero/lib/client.cfg"
 hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+preserve = true
 
 [[files]]
 file = "config/xaero/lib/common.cfg"
 hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+preserve = true
 
 [[files]]
 file = "config/xaero/lib/profiles/default.cfg"
 hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+preserve = true
 
 [[files]]
 file = "config/xaero/lib/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/client.cfg"
 hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/common.cfg"
 hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/default_radar_categories_server.json"
 hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/default.cfg"
 hash = "532b087fb902469b21ed110c9b6d6d51951368aa4f391c30987ba0a002ddb2bb"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
 hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
 hash = "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/server_profiles/default.cfg"
 hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+preserve = true
 
 [[files]]
 file = "config/xaerohud.txt"
 hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
+preserve = true
 
 [[files]]
 file = "mods/apotheosis-1.21.1-8.9.0.pw.toml"
