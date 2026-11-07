@@ -19,7 +19,7 @@ hash = "2150a9e5f1bf77a33843d3a9d290efad799e7aaf338b1f6d0bedfae190864aa8"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "a4c32639367fe920cd3edaf1e0e12e44fef6ea698fad23b039da4af4ce314fd6"
+hash = "7147812999a2a33731c45c8fc26931dd1ee19b727ffeaaae0f21eb8c98f5f9d6"
 
 [[files]]
 file = "config/apothic_spawners.cfg"
@@ -68,6 +68,15 @@ file = "config/ars_technica-common.toml"
 hash = "6109120567b4f26d042b0b1ae271dcd1f8186269fbf4828964b961308bf0b9ee"
 
 [[files]]
+file = "config/brewinandchewin-client.toml"
+hash = "8e7861a1c13f1169b024f17922e99eed9e7b2c9799c949c00c51ebda216e56f9"
+preserve = true
+
+[[files]]
+file = "config/brewinandchewin-common.toml"
+hash = "47a015989efd4754fbf33a225f07328998919fde0a2b388c6fdf8316f38bf19a"
+
+[[files]]
 file = "config/cataclysm-client.toml"
 hash = "a83db10f4450e21761559465b75388c115d3f0d899b368e1124f380d49b737a8"
 preserve = true
@@ -113,6 +122,19 @@ file = "config/curios-common.toml"
 hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
 
 [[files]]
+file = "config/fallingtree.json"
+hash = "9704d03d869a866e68c5e783025c8720df6d35e3e76c56080e08e9bf6473a341"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "a8cdc0376674d522d92d977cac5800d00c6f70ea62ea83dea59595fb232b8e3e"
+preserve = true
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "0cc639f1ce8ab5e63f754ab41be3ab09398fd149de6d0b5edc476034e3ed8b06"
+
+[[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
 
@@ -151,7 +173,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "3314c0176b9f625c1d373e11f7dddef0c513ca960a9aabf4c11b6c4a7124a442"
+hash = "0928c4a77011fecf1e43dabe35c4a5345dd769c06e784e3425b6c7d9989714eb"
 preserve = true
 
 [[files]]
@@ -201,7 +223,7 @@ preserve = true
 
 [[files]]
 file = "config/jei/client/ingredient-list-mod-sort-order.ini"
-hash = "78a89c31147a7e93db13cb071c4e19bd8edc650841f23a808312e0055a2da7f2"
+hash = "668ef95d23c1db288360ff235d4778c4735ac56035e369a0573942a92d2ccbd5"
 preserve = true
 
 [[files]]
@@ -211,8 +233,12 @@ preserve = true
 
 [[files]]
 file = "config/jei/client/recipe-category-sort-order.ini"
-hash = "b37e3044cdab575c32c5939676cc859a1347955f2d54eabcd092d167029f37be"
+hash = "59a494322b051e7297115d4cae1238872b30c7b5e948f6c72854671c943d3cc3"
 preserve = true
+
+[[files]]
+file = "config/lithostitched.json"
+hash = "ce8ab190281862b0554c92043c2bf8af106fbe4116bcd6dab433f6506781dbc0"
 
 [[files]]
 file = "config/mezz_config/client/default/settings.ini"
@@ -308,6 +334,18 @@ hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 [[files]]
 file = "config/ssrd-common.toml"
 hash = "f02c4f19736ba21f48c0100128ad3208d2cec4e2fae2fa52b3a3b8639cc69c3c"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "f8159cd49fec4f6faefa98cff420db36861d71bba7aaa0a55c898b860da75f09"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "cff6a9a0d415b19b9852844c0ad5bb2b1cfdb9fce12e729e7228a6521fc95927"
+
+[[files]]
+file = "config/terralith.json"
+hash = "eadc7fad5ce55fbcec25df521820d36c222d5b12f17006ed9fea34ebeb6fd01d"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -429,6 +467,11 @@ hash = "b1568aac3651d7889ec8aafc7782c5e6f87538e8bd2c820c15a3d86060f471af"
 metafile = true
 
 [[files]]
+file = "mods/brewinandchewin-neoforge-4.5.0+1.21.1.pw.toml"
+hash = "9ae54b780c53143ce76fc3b40db4d7fa2226851f1b1200c6e9cc450003bae798"
+metafile = true
+
+[[files]]
 file = "mods/create-1.21.1-6.0.10.pw.toml"
 hash = "90668bf0969987baf3479e4881e461df6507730e7bcca10a6a7cafe06cd3bc7a"
 metafile = true
@@ -461,6 +504,11 @@ metafile = true
 [[files]]
 file = "mods/fallingtree-1.21.1-1.21.1.11.pw.toml"
 hash = "7db86c5f82f1133a6bd9684a5aa001bb36df7fd3c96e5acf09861548d9844b65"
+metafile = true
+
+[[files]]
+file = "mods/farmersdelight-1.21.1-1.3.4.pw.toml"
+hash = "58a4923b18419278919729e4bf7b91789098b8b0d24364548ae0965fa9655a11"
 metafile = true
 
 [[files]]
@@ -524,6 +572,11 @@ hash = "5217dfcfc1fff6c28e0e376bbf1ae705fdf9742d148c53fb0ec9b8bc57d39f55"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched-1.8.1-neoforge-21.1.pw.toml"
+hash = "0a19687f71fd7cecfee9c3f4b50ef7aee87239bcfc85f3e2e7612468934bffaa"
+metafile = true
+
+[[files]]
 file = "mods/massweightcompat-1.0.4+1.21.1.pw.toml"
 hash = "9396ead2e25a13899206097ec44c6abdeade613bb26efb996a4ccd92956eeec6"
 metafile = true
@@ -584,6 +637,11 @@ hash = "0049e91130531809a10ec81309af1a9592475cf0ca35d8e3fa3096397a615949"
 metafile = true
 
 [[files]]
+file = "mods/sophisticatedbackpackscreateintegration-1.21.1-0.2.3.194.pw.toml"
+hash = "3c48240a7694c205c94e96006fb569414860086a59a557fc3c83349e165c68a7"
+metafile = true
+
+[[files]]
 file = "mods/sophisticatedcore-1.21.1-1.5.31.2460.pw.toml"
 hash = "72ced0f4ca5c9eabcb6f4cd5b1503af1ef3eee16eea160398939564f49ee6133"
 metafile = true
@@ -596,6 +654,21 @@ metafile = true
 [[files]]
 file = "mods/ssrd-1.8.8-1.21.1.pw.toml"
 hash = "c2993db3864c0f20ac0aea95b65ec392bde4b34e62c030e6666e262e6c8f2eb5"
+metafile = true
+
+[[files]]
+file = "mods/tectonic-3.0.28-neoforge-21.1.pw.toml"
+hash = "e5a04084b5c611d389ebdf626fefed07d4dd72c917f4d6d0b042a9e567a4cc5a"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-neoforge-1.21.1-4.1.0.8.pw.toml"
+hash = "990d7f20d4ab395e2a3511736b32a4a77ebbb6f1f7a8e86da0b46b5a29dcb8a2"
+metafile = true
+
+[[files]]
+file = "mods/terralith_1.21.1_v2.6.2_neoforge.pw.toml"
+hash = "e10165e95a46f191ba77381f19d206650c4e41eda46a9fe488bbfa965a11e372"
 metafile = true
 
 [[files]]
