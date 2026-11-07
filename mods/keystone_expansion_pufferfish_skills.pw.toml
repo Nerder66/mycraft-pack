@@ -1,0 +1,13 @@
+name = "keystone_expansion_pufferfish_skills"
+filename = "keystone_expansion_pufferfish_skills.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/etNXlw3S/versions/9TH1etYv/keystone_expansion_pufferfish_skills.jar"
+hash-format = "sha1"
+hash = "39af1bd7c7c0fd4aa12b24754c5aff1f852bbf04"
+
+[update]
+[update.modrinth]
+mod-id = "etNXlw3S"
+version = "9TH1etYv"

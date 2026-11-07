@@ -1,0 +1,13 @@
+name = "massweightcompat-1.0.4+1.21.1"
+filename = "massweightcompat-1.0.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bJLW7HUi/versions/R8UNTxxG/massweightcompat-1.0.4%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "d3b6caed246f563fa7a7e55d505a0ad0448bf10f"
+
+[update]
+[update.modrinth]
+mod-id = "bJLW7HUi"
+version = "R8UNTxxG"

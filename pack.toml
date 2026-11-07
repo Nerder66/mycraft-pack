@@ -1,0 +1,13 @@
+name = "MyCraft"
+author = "Darius"
+version = "1.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8c285be38fb93779ed95065630721ceeb28222da1f245ed8fad2505bc5184faa"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"

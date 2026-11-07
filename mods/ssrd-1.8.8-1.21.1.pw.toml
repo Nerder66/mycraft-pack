@@ -1,0 +1,13 @@
+name = "SSRD-1.8.8-1.21.1"
+filename = "SSRD-1.8.8-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fJ183v3D/versions/Zdhm9p2k/SSRD-1.8.8-1.21.1.jar"
+hash-format = "sha1"
+hash = "0639b720f16bfc817724b029433b55acbfb76ce7"
+
+[update]
+[update.modrinth]
+mod-id = "fJ183v3D"
+version = "Zdhm9p2k"
