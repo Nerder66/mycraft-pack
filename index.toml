@@ -417,6 +417,11 @@ hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
 preserve = true
 
 [[files]]
+file = "mods/aeronauticshotairfix-1.1.1.pw.toml"
+hash = "50f8118a98c59ec5c1b4d3457b1afa91e7c4e0f2a0a47809dc1c0855fe17da87"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis-1.21.1-8.9.0.pw.toml"
 hash = "edb330831a39274ecd9540b4d667fdd8d9804886da791acd8fa8e3bc01b0b303"
 metafile = true
