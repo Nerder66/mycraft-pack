@@ -345,10 +345,6 @@ file = "config/xaerohud.txt"
 hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
 
 [[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "mods/apotheosis-1.21.1-8.9.0.pw.toml"
 hash = "edb330831a39274ecd9540b4d667fdd8d9804886da791acd8fa8e3bc01b0b303"
 metafile = true
@@ -582,3 +578,4 @@ metafile = true
 file = "shaderpacks/complementaryreimagined_r5.9.3.pw.toml"
 hash = "ccfcdf2c44698881050605d905f1a6eac665dc5e86159ea8025994034b743678"
 metafile = true
+
