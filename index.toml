@@ -261,7 +261,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "9c1a46834b2fc9c5cfc7b04b164437d9ea9b3067c423df5f357a503877ec3e14"
+hash = "f4a475460652000b85c8d64beafebceca4685c902791e7a0f5e23af0958cf16e"
 preserve = true
 
 [[files]]
