@@ -241,7 +241,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "f4a475460652000b85c8d64beafebceca4685c902791e7a0f5e23af0958cf16e"
+hash = "98cf2b2f28d4201a803d382bf376f531c6e53855818bb2f9ea5cb82a7ed53745"
 preserve = true
 
 [[files]]
@@ -302,6 +302,11 @@ preserve = true
 [[files]]
 file = "config/jei/client/recipe-category-sort-order.ini"
 hash = "59a494322b051e7297115d4cae1238872b30c7b5e948f6c72854671c943d3cc3"
+preserve = true
+
+[[files]]
+file = "config/jei/world/server/Minecraft Server (localhost)/bookmarks.json"
+hash = "9b9a24f5d317aeff571f3c2b534744b9eb7cdb0012141ab2d9a05b388bd68710"
 preserve = true
 
 [[files]]
