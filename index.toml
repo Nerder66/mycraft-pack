@@ -560,6 +560,10 @@ hash = "b1568aac3651d7889ec8aafc7782c5e6f87538e8bd2c820c15a3d86060f471af"
 metafile = true
 
 [[files]]
+file = "mods/betterlectern-1.0.0.jar"
+hash = "73770de45701458188aae9d3a9bf3dd84a9d39d0b62fed755995793f383dca03"
+
+[[files]]
 file = "mods/brewinandchewin-neoforge-4.5.0+1.21.1.pw.toml"
 hash = "9ae54b780c53143ce76fc3b40db4d7fa2226851f1b1200c6e9cc450003bae798"
 metafile = true
