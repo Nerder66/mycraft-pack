@@ -236,26 +236,6 @@ file = "config/fml.toml"
 hash = "1ac1fd9694773ef1ec8af42c9cc8a908a1b618fa6fb6031c27305383e97f70c7"
 
 [[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "800001da2f115dd41a12f9da1fbabe8d05c19fd145a907c9edfbaec965936977"
-
-[[files]]
-file = "config/inventoryprofilesnext/localhost/prev-villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/localhost/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
@@ -619,11 +599,6 @@ hash = "b88c97a84404e054d7ef9299d8b74222a82005e3d8e8e9200967b7b450f45715"
 metafile = true
 
 [[files]]
-file = "mods/inventoryprofilesnext-neoforge-1.21.1-2.2.5.pw.toml"
-hash = "187ec0325d5a1a9ebb640c0b8a24693676e23ccddb29019bc0e6e41dec38ad9d"
-metafile = true
-
-[[files]]
 file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.pw.toml"
 hash = "3c00e0a02bade633ca3b13ad30aa001859eff87065f8357b2a31f314e7e4bbfc"
 metafile = true
@@ -649,18 +624,8 @@ hash = "4b519d7097a5bca7f7aa02fa344f39cc8119f42eea09214c8504ff97cc97f312"
 metafile = true
 
 [[files]]
-file = "mods/kotlinforforge-5.12.0-all.pw.toml"
-hash = "7fc5148a0f28f8088a874a6a706987c3836cd7b2d7973476e22dabc06ce211e1"
-metafile = true
-
-[[files]]
 file = "mods/l_enders-cataclysm-1.21.1-3.33.pw.toml"
 hash = "1a3ad4041c08b93351fa63a1ca69f90b4656aafa8e2775f61420176bd651f4bf"
-metafile = true
-
-[[files]]
-file = "mods/libipn-neoforge-1.21.1-6.6.3.pw.toml"
-hash = "b070b20cd3fe3072190efba542b1a247ac095cd7fec11ea2b1f0758e23e845ed"
 metafile = true
 
 [[files]]
