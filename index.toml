@@ -714,6 +714,11 @@ hash = "72ced0f4ca5c9eabcb6f4cd5b1503af1ef3eee16eea160398939564f49ee6133"
 metafile = true
 
 [[files]]
+file = "mods/sophisticatedstorage-1.21.1-1.6.16.2222.pw.toml"
+hash = "c8be753ed2cd1dcb6a375c04899f185bb0218265c72bf9a22821f3d9f2a461b4"
+metafile = true
+
+[[files]]
 file = "mods/spark-1.10.124-neoforge.pw.toml"
 hash = "e54fde13d98eae13d08ecde926fb1bc6db838660afbbb55bb369ea8228d8fa8e"
 metafile = true
