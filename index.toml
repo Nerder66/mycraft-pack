@@ -708,6 +708,10 @@ hash = "a49d20bf8797d98328fe100609bef8ac89d9c4cefd5313c67e91ea7400f85563"
 metafile = true
 
 [[files]]
+file = "mods/smokeleafindustries-0.7.1-1.21.1.jar"
+hash = "beee8bcce4e428f54d8cf0dde52b0e11a5260e0d000fc78d3a8f00e9de147849"
+
+[[files]]
 file = "mods/sodium-neoforge-0.8.13+mc1.21.1.pw.toml"
 hash = "a59255be02532cb0c665a1091f2b93d5004c9aa6ebf779d0cbed1a593fd6b919"
 metafile = true
