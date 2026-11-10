@@ -550,6 +550,10 @@ hash = "fa9ed3b22863c295c278ccee7450ba8fbdacae7a480664485cb2db0a8d108de6"
 metafile = true
 
 [[files]]
+file = "mods/arssablefix-1.0.0.jar"
+hash = "b36ca451054a81339794f7ab2302b92d3c357ec0c2cc4a7025323f23d802907d"
+
+[[files]]
 file = "mods/balm-neoforge-1.21.1-21.0.67.pw.toml"
 hash = "b1568aac3651d7889ec8aafc7782c5e6f87538e8bd2c820c15a3d86060f471af"
 metafile = true
