@@ -520,6 +520,11 @@ hash = "aff19cc7499728f1fb901115f4d544a31524390f0dc7661748c0ed703461d3d9"
 metafile = true
 
 [[files]]
+file = "mods/ars_controle-1.21.1-1.6.16.pw.toml"
+hash = "4607f2e6cae90f7008c619379404180c0ac1288013c82b961cc0d0d0258b830b"
+metafile = true
+
+[[files]]
 file = "mods/ars_creo-1.21.1-5.4.0.pw.toml"
 hash = "66b329e9a3557b9ed700330c71606b70d08508dcfb222224a3fc1aa3a0471f17"
 metafile = true
@@ -532,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/ars_nouveau-1.21.1-5.13.4.pw.toml"
 hash = "e296a96eea7b277b4bba306e1374284dc461d035bf78c9116dcd639957474767"
+metafile = true
+
+[[files]]
+file = "mods/ars_sable-1.21.1-1.2.0.pw.toml"
+hash = "0b5b9b744ef0eda560db8e3e3697c47ca2305588c270e8793e64bec0c7e165ad"
 metafile = true
 
 [[files]]
