@@ -1364,7 +1364,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "55403351a669cf361416d7a77f95654a1efb7d2e59b6fdf429602644173abdd0"
+hash = "db38f0cefccb45ae14805edd8b4de6dc94162dba86bf3305e92a87dde042d274"
 preserve = true
 
 [[files]]
@@ -1929,7 +1929,7 @@ metafile = true
 
 [[files]]
 file = "mods/arsnumerichud-1.0.2.pw.toml"
-hash = "cd05cc0e8e9842489df0c8cf0d1236bcb9d287878c39965bb3e9b10c9270f796"
+hash = "0da625ecfb7c7f120c7a97724daddc31fc6b206392f282b78f7f77cfa150b7ff"
 metafile = true
 
 [[files]]
@@ -2091,8 +2091,9 @@ hash = "a49d20bf8797d98328fe100609bef8ac89d9c4cefd5313c67e91ea7400f85563"
 metafile = true
 
 [[files]]
-file = "mods/smokeleafindustries-0.7.1-1.21.1.jar"
-hash = "beee8bcce4e428f54d8cf0dde52b0e11a5260e0d000fc78d3a8f00e9de147849"
+file = "mods/smokeleafindustries-0.7.1-1.21.1.pw.toml"
+hash = "de782a05490900a0fe6da41f8565de396330590fadaf4079791c183f28578364"
+metafile = true
 
 [[files]]
 file = "mods/sodium-neoforge-0.8.13+mc1.21.1.pw.toml"

@@ -1,0 +1,13 @@
+name = "smokeleafindustries-0.7.1-1.21.1"
+filename = "smokeleafindustries-0.7.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4e761bfd67eaec48b23e1c7624665fc302de0b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9059757
+project-id = 998358
