@@ -1893,10 +1893,6 @@ hash = "4a64f44c6b5f55b5c2abb1cef54ff8f3b71381ccd4ecf06075dfc16ad806bd4f"
 metafile = true
 
 [[files]]
-file = "mods/ars-conflux-0.1.56-mc1.21.1-neoforge.jar"
-hash = "f95248e5fe2258ebc011bffdf6b350857d0d327aac2fec458ed48ca709d00158"
-
-[[files]]
 file = "mods/ars_additions-1.21.1-21.3.0.pw.toml"
 hash = "aff19cc7499728f1fb901115f4d544a31524390f0dc7661748c0ed703461d3d9"
 metafile = true
@@ -1948,10 +1944,6 @@ hash = "73770de45701458188aae9d3a9bf3dd84a9d39d0b62fed755995793f383dca03"
 file = "mods/brewinandchewin-neoforge-4.5.0+1.21.1.pw.toml"
 hash = "9ae54b780c53143ce76fc3b40db4d7fa2226851f1b1200c6e9cc450003bae798"
 metafile = true
-
-[[files]]
-file = "mods/cataclysm-nouveau-0.1.7-mc1.21.1-neoforge.jar"
-hash = "c5d803dbbdec0afd9d8f3c85bd350217cd56eee6777249331bf13b3de283317f"
 
 [[files]]
 file = "mods/create-1.21.1-6.0.10.pw.toml"
@@ -2057,10 +2049,6 @@ metafile = true
 file = "mods/modernfix-neoforge-5.27.27+mc1.21.1.pw.toml"
 hash = "fce55a3efd5f360bb2ebc1fcf3059160872f44d65212aa5bbfbf3e709b2648ab"
 metafile = true
-
-[[files]]
-file = "mods/mowzies-nouveau-0.1.4-mc1.21.1-neoforge.jar"
-hash = "63e483b645ded3d99eca9f01fd703b8fbff385ee33e739dc4c8c3992e460a80f"
 
 [[files]]
 file = "mods/mowziesmobs-1.21.1-1.8.2.pw.toml"
