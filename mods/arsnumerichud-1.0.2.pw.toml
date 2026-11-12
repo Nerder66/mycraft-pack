@@ -1,0 +1,13 @@
+name = "arsnumerichud-1.0.2"
+filename = "arsnumerichud-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qIZhQXKM/versions/sqXEwItv/arsnumerichud-1.0.2.jar"
+hash-format = "sha1"
+hash = "7d0210119042bbf6c4dbc47daf1b696a7a4d5577"
+
+[update]
+[update.modrinth]
+mod-id = "qIZhQXKM"
+version = "sqXEwItv"
