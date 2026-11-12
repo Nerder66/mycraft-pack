@@ -1,0 +1,18 @@
+[glyph_icons]
+	#Use Ars' original glyph base and type border for registered Conflux addon GUI icons.
+	frame_enabled = true
+	#Use addon-provided icon sources, e.g. native spell icons. False uses the original glyph item model.
+	provider_icons = true
+	#Center scale inside the frame. 0.75 renders a 16px icon in 12px. No frame uses full size.
+	# Default: 0.75
+	# Range: 0.1 ~ 1.0
+	center_scale = 0.75
+	#ARS_TYPE uses original Ars border pixels; UNIFORM and CUSTOM recolor only the colored border pixels.
+	#Allowed Values: ARS_TYPE, UNIFORM, CUSTOM
+	color_mode = "ARS_TYPE"
+	uniform_color = "#B79F69"
+	shape_color = "#B045E5"
+	augment_color = "#DC9613"
+	effect_color = "#1C919A"
+	#Border and category icon color for projectile replacement glyphs; also used in ARS_TYPE mode.
+	projectile_color = "#202020"

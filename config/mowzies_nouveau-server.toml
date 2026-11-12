@@ -1,0 +1,175 @@
+[mana]
+	# Default: 50
+	# Range: 0 ~ 1000000
+	sunstrike = 50
+	# Default: 80
+	# Range: 0 ~ 1000000
+	solar_beam = 80
+	# Default: 50
+	# Range: 0 ~ 1000000
+	solar_flare = 50
+	# Default: 250
+	# Range: 0 ~ 1000000
+	supernova = 250
+	# Default: 40
+	# Range: 0 ~ 1000000
+	ice_breath = 40
+	# Default: 60
+	# Range: 0 ~ 1000000
+	ice_ball = 60
+	# Default: 90
+	# Range: 0 ~ 1000000
+	rock_sling = 90
+	# Default: 60
+	# Range: 0 ~ 1000000
+	boulder_lift = 60
+	# Default: 80
+	# Range: 0 ~ 1000000
+	pillar_rise = 80
+	# Default: 60
+	# Range: 0 ~ 1000000
+	tunnel = 60
+	# Default: 40
+	# Range: 0 ~ 1000000
+	acid_ball = 40
+	# Default: 30
+	# Range: 0 ~ 1000000
+	acid_splash = 30
+	# Default: 50
+	# Range: 0 ~ 1000000
+	paw_full = 50
+	# Default: 50
+	# Range: 0 ~ 1000000
+	paw_gibbous = 50
+	# Default: 35
+	# Range: 0 ~ 1000000
+	paw_half = 35
+	# Default: 100
+	# Range: 0 ~ 1000000
+	paw_crescent = 100
+	# Default: 150
+	# Range: 0 ~ 1000000
+	paw_new = 150
+	#Additional payload mana per written Amplify at launch and each channel renewal.
+	# Default: 10
+	# Range: 0 ~ 1000000
+	per_amplify = 10
+
+[channels]
+	# Default: 60
+	# Range: 0 ~ 1000000
+	solar_beam_per_second = 60
+	# Default: 20
+	# Range: 0 ~ 1000000
+	ice_breath_per_second = 20
+	# Default: 20
+	# Range: 0 ~ 1000000
+	tunnel_per_second = 20
+	#Active duration ticks added per Extend Time.
+	# Default: 20
+	# Range: 0 ~ 72000
+	extend_ticks = 20
+	# Default: 200
+	# Range: 1 ~ 72000
+	maximum_active_ticks = 200
+
+[geomancy]
+	#Payload mana per Geomantic Mass. Sizes follow the native gauntlet tiers, capped at Huge.
+	# Default: 20
+	# Range: 0 ~ 1000000
+	per_mass = 20
+	#Maximum height of one pillar. Growth stops at solid ceilings.
+	# Default: 8
+	# Range: 1 ~ 64
+	pillar_height = 8
+	#Maximum lifetime of a floating boulder or pillar in ticks.
+	# Default: 1200
+	# Range: 20 ~ 72000
+	maximum_lifetime_ticks = 1200
+
+[acid]
+	#Maximum poison duration in ticks for acid glyphs, including Extend Time.
+	# Default: 1200
+	# Range: 80 ~ 72000
+	maximum_poison_ticks = 1200
+
+[paws]
+	#Base curse radius; native paws use ten blocks.
+	# Default: 10.0
+	# Range: 0.1 ~ 64.0
+	radius = 10.0
+	#Maximum radius including one block per AoE augment.
+	# Default: 24.0
+	# Range: 0.1 ~ 64.0
+	maximum_radius = 24.0
+	#Maximum duration in ticks. Base duration follows the native Elokosa Paw configuration.
+	# Default: 1200
+	# Range: 1 ~ 72000
+	maximum_duration_ticks = 1200
+	#Highest zero-based curse amplifier. Eclipse has no strength scaling.
+	# Default: 3
+	# Range: 0 ~ 10
+	maximum_amplifier = 3
+
+[cooldowns]
+	enabled = true
+	creative_cooldown = false
+	# Default: 3
+	# Range: 0 ~ 3600
+	sunstrike_seconds = 3
+	# Default: 12
+	# Range: 0 ~ 3600
+	solar_beam_seconds = 12
+	# Default: 6
+	# Range: 0 ~ 3600
+	solar_flare_seconds = 6
+	# Default: 30
+	# Range: 0 ~ 3600
+	supernova_seconds = 30
+	# Default: 6
+	# Range: 0 ~ 3600
+	ice_breath_seconds = 6
+	# Default: 3
+	# Range: 0 ~ 3600
+	ice_ball_seconds = 3
+	# Default: 3
+	# Range: 0 ~ 3600
+	rock_sling_seconds = 3
+	# Default: 4
+	# Range: 0 ~ 3600
+	boulder_lift_seconds = 4
+	# Default: 8
+	# Range: 0 ~ 3600
+	pillar_rise_seconds = 8
+	# Default: 10
+	# Range: 0 ~ 3600
+	tunnel_seconds = 10
+	# Default: 3
+	# Range: 0 ~ 3600
+	acid_ball_seconds = 3
+	# Default: 3
+	# Range: 0 ~ 3600
+	acid_splash_seconds = 3
+	# Default: 90
+	# Range: 0 ~ 3600
+	paw_full_seconds = 90
+	# Default: 90
+	# Range: 0 ~ 3600
+	paw_gibbous_seconds = 90
+	# Default: 90
+	# Range: 0 ~ 3600
+	paw_half_seconds = 90
+	# Default: 90
+	# Range: 0 ~ 3600
+	paw_crescent_seconds = 90
+	# Default: 90
+	# Range: 0 ~ 3600
+	paw_new_seconds = 90
+
+[native_behavior]
+	#Allow the native ice breath's temporary surface-water freezing. Original Mowzie casts are unaffected.
+	freeze_surface_water = true
+	#Apply the native Solar Beam player's Slowness III to the actual emitting player. Mobs receive no added restriction.
+	solar_player_slowness = true
+	#Apply Solar Flare/Supernova preparation slowness to the actual player emitter.
+	solar_pulse_player_slowness = true

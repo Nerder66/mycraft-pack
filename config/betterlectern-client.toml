@@ -1,0 +1,9 @@
+#Extra item rows added to the Storage Lectern screen.
+#Ars default is 3 rows (7 with the crafting grid hidden). 3 extra = 6 rows / 10 rows.
+#The screen shrinks this automatically if your window or GUI scale is too small.
+# Default: 3
+# Range: 0 ~ 12
+extraRows = 3
+#If true, any key you press jumps into the search box (Ars default).
+#If false, click the search box to type in it; E closes the screen and number keys work as normal.
+autoFocusSearch = false

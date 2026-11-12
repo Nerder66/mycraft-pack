@@ -1,0 +1,54 @@
+[mana_discounts]
+	#Convert the two native Ars discount rings from flat discounts to percentage mana reductions.
+	#Applies to native Ars costs and opt-in mana quotes. Soul energy and other resources keep their own rules.
+	#False restores native flat discounts and removes the converted trigger discounts.
+	percentage_discount_rings = true
+	#Mana reduction per equipped lesser discount ring; 0.10 means 10 percent.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	lesser_ring_reduction = 0.1
+	#Mana reduction per equipped greater discount ring; 0.20 means 20 percent.
+	#Ring percentages add, capped at 100 percent. Positive fractional mana costs round up.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	greater_ring_reduction = 0.2
+
+[schools]
+	#Apply explicitly declared school damage multipliers from server datapacks. Default false preserves existing balance.
+	#Undeclared abilities always retain their original damage. Native damage types, armor rules and original school memberships are unchanged.
+	damage_rules = false
+
+[ars_trigger_billing]
+	#Move native Ars effects and their written augments from launch cost to each effect dispatch.
+	#Includes Orbit creation at every nesting level; insufficient mana stops that branch.
+	#Cast methods and addon glyphs retain their upfront costs. Creative casts remain free.
+	#Living casters only; source-powered devices keep their native payment rules.
+	#A normally returning effect is a paid attempt, even if its target is inapplicable.
+	#False preserves native Ars billing.
+	enabled = false
+
+[active_casting]
+	#Aggregation for preparation times contributed by all installed providers.
+	#MAXIMUM: longest effective preparation. SUM: add every written occurrence across providers.
+	#Providers independently decide whether they contribute chanting and native cooldowns.
+	#Allowed Values: MAXIMUM, SUM
+	chant_mode = "MAXIMUM"
+
+[hex_linker]
+	#Apply installed providers' chanting to new active Hex-Ars Linker operations.
+	#Passive impact callbacks never initiate another chant. Provider settings still apply.
+	chanting = true
+	#Check and commit installed providers' cooldowns for active Hex-Ars Linker operations.
+	#False bypasses cooldowns only for this spell chain; mana and media billing are unchanged.
+	cooldowns = true
+
+[zero]
+	#Prepare all phases of one Zero staff/circlet use once using installed providers' chanting.
+	chanting = true
+	#Check the complete Zero phase plan at activation and commit its provider cooldowns once at the first acknowledged release.
+	cooldowns = true
+
+[addon_cooldowns]
+	#Keep opt-in addon cooldown deadlines after player death.
+	#Non-death clones always keep deadlines. Native Iron/Goety stores are not changed.
+	preserve_on_death = true

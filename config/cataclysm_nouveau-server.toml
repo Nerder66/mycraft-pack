@@ -1,0 +1,919 @@
+[mana]
+	#Ars mana per actual launch or repeated impact.
+	# Default: 60
+	# Range: 0 ~ 100000
+	amethyst_cluster = 60
+	#Ars mana per actual launch or repeated impact.
+	# Default: 25
+	# Range: 0 ~ 100000
+	lionfish_spike = 25
+	#Ars mana per actual launch or repeated impact.
+	# Default: 80
+	# Range: 0 ~ 100000
+	bolt_strike = 80
+	#Ars mana per actual launch or repeated impact.
+	# Default: 20
+	# Range: 0 ~ 100000
+	void_rune = 20
+	#Ars mana per actual launch or repeated impact.
+	# Default: 50
+	# Range: 0 ~ 100000
+	flame_jet = 50
+	#Ars mana per actual launch or repeated impact.
+	# Default: 60
+	# Range: 0 ~ 100000
+	ceraunus = 60
+	#Ars mana per actual launch or repeated impact.
+	# Default: 90
+	# Range: 0 ~ 100000
+	wave = 90
+	#Ars mana per actual launch or repeated impact.
+	# Default: 180
+	# Range: 0 ~ 100000
+	flare_bomb = 180
+	#Ars mana per actual launch or repeated impact.
+	# Default: 180
+	# Range: 0 ~ 100000
+	lava_bomb = 180
+	#Ars mana per actual launch or repeated impact.
+	# Default: 220
+	# Range: 0 ~ 100000
+	earthquake = 220
+	#Ars mana per actual launch or repeated impact.
+	# Default: 240
+	# Range: 0 ~ 100000
+	fissure = 240
+	#Ars mana per actual launch or repeated impact.
+	# Default: 300
+	# Range: 0 ~ 100000
+	flame_ring = 300
+	#Ars mana per actual launch or repeated impact.
+	# Default: 160
+	# Range: 0 ~ 100000
+	shoulder_check = 160
+	#Ars mana per actual launch or repeated impact.
+	# Default: 300
+	# Range: 0 ~ 100000
+	lava_absorption = 300
+	#Ars mana per actual launch or repeated impact.
+	# Default: 120
+	# Range: 0 ~ 100000
+	monstrous = 120
+	#Ars mana per actual launch or repeated impact.
+	# Default: 40
+	# Range: 0 ~ 100000
+	bone_fracture = 40
+	#Ars mana per actual launch or repeated impact.
+	# Default: 80
+	# Range: 0 ~ 100000
+	lava_walking = 80
+	#Ars mana per actual launch or repeated impact.
+	# Default: 90
+	# Range: 0 ~ 100000
+	water_spear = 90
+	#Ars mana per actual launch or repeated impact.
+	# Default: 110
+	# Range: 0 ~ 100000
+	lightning_spear = 110
+	#Ars mana per actual launch or repeated impact.
+	# Default: 160
+	# Range: 0 ~ 100000
+	storm_serpent = 160
+	#Ars mana per actual launch or repeated impact.
+	# Default: 180
+	# Range: 0 ~ 100000
+	lightning_storm = 180
+	#Ars mana per actual launch or repeated impact.
+	# Default: 160
+	# Range: 0 ~ 100000
+	lightning_field = 160
+	#Ars mana per actual launch or repeated impact.
+	# Default: 500
+	# Range: 0 ~ 100000
+	storm_burst = 500
+	#Ars mana per actual launch or repeated impact.
+	# Default: 120
+	# Range: 0 ~ 100000
+	spark = 120
+	#Ars mana per actual launch or repeated impact.
+	# Default: 650
+	# Range: 0 ~ 100000
+	thunder_cloud = 650
+	#Ars mana per actual launch or repeated impact.
+	# Default: 320
+	# Range: 0 ~ 100000
+	lightning_row = 320
+	#Ars mana per actual launch or repeated impact.
+	# Default: 700
+	# Range: 0 ~ 100000
+	thunder_combo = 700
+	#Ars mana per actual launch or repeated impact.
+	# Default: 300
+	# Range: 0 ~ 100000
+	anchor_spin = 300
+	#Ars mana per actual launch or repeated impact.
+	# Default: 600
+	# Range: 0 ~ 100000
+	anchor_leap = 600
+	#Ars mana per actual launch or repeated impact.
+	# Default: 60
+	# Range: 0 ~ 100000
+	water_walking = 60
+	#Ars mana per actual launch or repeated impact.
+	# Default: 40
+	# Range: 0 ~ 100000
+	laser_bolt = 40
+	#Ars mana per actual launch or repeated impact.
+	# Default: 90
+	# Range: 0 ~ 100000
+	wither_missile = 90
+	#Ars mana per actual launch or repeated impact.
+	# Default: 120
+	# Range: 0 ~ 100000
+	homing_missile = 120
+	#Ars mana per actual launch or repeated impact.
+	# Default: 200
+	# Range: 0 ~ 100000
+	wither_howitzer = 200
+	#Ars mana per actual launch or repeated impact.
+	# Default: 60
+	# Range: 0 ~ 100000
+	death_laser = 60
+	#Ars mana per actual launch or repeated impact.
+	# Default: 180
+	# Range: 0 ~ 100000
+	harbinger_charge = 180
+	#Ars mana per actual launch or repeated impact.
+	# Default: 400
+	# Range: 0 ~ 100000
+	howitzer_volley = 400
+	#Ars mana per actual launch or repeated impact.
+	# Default: 240
+	# Range: 0 ~ 100000
+	missile_salvo = 240
+	#Ars mana per actual launch or repeated impact.
+	# Default: 40
+	# Range: 0 ~ 100000
+	wither_smoke = 40
+	#Ars mana per actual launch or repeated impact.
+	# Default: 45
+	# Range: 0 ~ 100000
+	guardian_bullet = 45
+	#Ars mana per actual launch or repeated impact.
+	# Default: 220
+	# Range: 0 ~ 100000
+	void_vortex = 220
+	#Ars mana per actual launch or repeated impact.
+	# Default: 320
+	# Range: 0 ~ 100000
+	guardian_stomp = 320
+	#Ars mana per actual launch or repeated impact.
+	# Default: 160
+	# Range: 0 ~ 100000
+	gravity_punch = 160
+	#Ars mana per actual launch or repeated impact.
+	# Default: 420
+	# Range: 0 ~ 100000
+	guardian_uppercut = 420
+	#Ars mana per actual launch or repeated impact.
+	# Default: 180
+	# Range: 0 ~ 100000
+	guardian_blink = 180
+	#Ars mana per actual launch or repeated impact.
+	# Default: 450
+	# Range: 0 ~ 100000
+	guardian_air_strike = 450
+	#Ars mana per actual launch or repeated impact.
+	# Default: 160
+	# Range: 0 ~ 100000
+	guardian_rocket_punch = 160
+	#Ars mana per actual launch or repeated impact.
+	# Default: 120
+	# Range: 0 ~ 100000
+	ignis_fireball = 120
+	#Ars mana per actual launch or repeated impact.
+	# Default: 200
+	# Range: 0 ~ 100000
+	ignis_abyss_fireball = 200
+	#Ars mana per actual launch or repeated impact.
+	# Default: 320
+	# Range: 0 ~ 100000
+	ignis_blade_fireballs = 320
+	#Ars mana per actual launch or repeated impact.
+	# Default: 300
+	# Range: 0 ~ 100000
+	ignis_air_smash = 300
+	#Ars mana per actual launch or repeated impact.
+	# Default: 650
+	# Range: 0 ~ 100000
+	ignis_sword_combo = 650
+	#Ars mana per actual launch or repeated impact.
+	# Default: 650
+	# Range: 0 ~ 100000
+	ignis_fireball_array = 650
+	#Ars mana per actual launch or repeated impact.
+	# Default: 600
+	# Range: 0 ~ 100000
+	ignis_earth_shudders = 600
+	#Ars mana per actual launch or repeated impact.
+	# Default: 850
+	# Range: 0 ~ 100000
+	ignis_reinforced_smash = 850
+	#Ars mana per actual launch or repeated impact.
+	# Default: 900
+	# Range: 0 ~ 100000
+	ignis_ultimate = 900
+	#Ars mana per actual launch or repeated impact.
+	# Default: 280
+	# Range: 0 ~ 100000
+	ignis_flame_strike = 280
+	#Ars mana per actual launch or repeated impact.
+	# Default: 45
+	# Range: 0 ~ 100000
+	phantom_arrow = 45
+	#Ars mana per actual launch or repeated impact.
+	# Default: 30
+	# Range: 0 ~ 100000
+	phantom_halberd = 30
+	#Ars mana per actual launch or repeated impact.
+	# Default: 30
+	# Range: 0 ~ 100000
+	cursed_rage = 30
+	#Ars mana per actual launch or repeated impact.
+	# Default: 300
+	# Range: 0 ~ 100000
+	phantom_spiral = 300
+	#Ars mana per actual launch or repeated impact.
+	# Default: 240
+	# Range: 0 ~ 100000
+	phantom_rings = 240
+	#Ars mana per actual launch or repeated impact.
+	# Default: 360
+	# Range: 0 ~ 100000
+	halberd_cleave = 360
+	#Ars mana per actual launch or repeated impact.
+	# Default: 120
+	# Range: 0 ~ 100000
+	soul_burst = 120
+	#Ars mana per actual launch or repeated impact.
+	# Default: 600
+	# Range: 0 ~ 100000
+	maledictus_aerial_smash = 600
+	#Ars mana per actual launch or repeated impact.
+	# Default: 180
+	# Range: 0 ~ 100000
+	phantom_aerial_volley = 180
+	#Ars mana per actual launch or repeated impact.
+	# Default: 220
+	# Range: 0 ~ 100000
+	maledictus_rush = 220
+	#Ars mana per actual launch or repeated impact.
+	# Default: 160
+	# Range: 0 ~ 100000
+	maledictus_shockwave = 160
+	#Ars mana per actual launch or repeated impact.
+	# Default: 140
+	# Range: 0 ~ 100000
+	maledictus_uppercut = 140
+	#Ars mana per actual launch or repeated impact.
+	# Default: 200
+	# Range: 0 ~ 100000
+	maledictus_melee_combo = 200
+	#Ars mana per actual launch or repeated impact.
+	# Default: 180
+	# Range: 0 ~ 100000
+	maledictus_spin_slashes = 180
+	#Ars mana per actual launch or repeated impact.
+	# Default: 60
+	# Range: 0 ~ 100000
+	abyss_orb = 60
+	#Ars mana per actual launch or repeated impact.
+	# Default: 80
+	# Range: 0 ~ 100000
+	abyss_mine = 80
+	#Ars mana per actual launch or repeated impact.
+	# Default: 80
+	# Range: 0 ~ 100000
+	abyss_blast = 80
+	#Ars mana per actual launch or repeated impact.
+	# Default: 300
+	# Range: 0 ~ 100000
+	abyss_bombardment = 300
+	#Ars mana per actual launch or repeated impact.
+	# Default: 650
+	# Range: 0 ~ 100000
+	dimensional_rift = 650
+	#Ars mana per actual launch or repeated impact.
+	# Default: 140
+	# Range: 0 ~ 100000
+	tidal_tentacle = 140
+	#Ars mana per actual launch or repeated impact.
+	# Default: 450
+	# Range: 0 ~ 100000
+	abyss_minefield = 450
+	#Ars mana per actual launch or repeated impact.
+	# Default: 600
+	# Range: 0 ~ 100000
+	abyss_bombardment_array = 600
+	#Ars mana per actual launch or repeated impact.
+	# Default: 300
+	# Range: 0 ~ 100000
+	abyss_orb_array = 300
+	#Ars mana per actual launch or repeated impact.
+	# Default: 80
+	# Range: 0 ~ 100000
+	abyss_triple_blast = 80
+	#Ars mana per actual launch or repeated impact.
+	# Default: 280
+	# Range: 0 ~ 100000
+	sandstorm_ring = 280
+	#Ars mana per actual launch or repeated impact.
+	# Default: 45
+	# Range: 0 ~ 100000
+	desert_stele = 45
+	#Ars mana per actual launch or repeated impact.
+	# Default: 50
+	# Range: 0 ~ 100000
+	ground_quake = 50
+	#Ars mana per actual launch or repeated impact.
+	# Default: 240
+	# Range: 0 ~ 100000
+	remnant_stomp = 240
+	#Ars mana per actual launch or repeated impact.
+	# Default: 400
+	# Range: 0 ~ 100000
+	desert_stele_array = 400
+	#Ars mana per actual launch or repeated impact.
+	# Default: 420
+	# Range: 0 ~ 100000
+	remnant_triple_quake = 420
+	#Ars mana per actual launch or repeated impact.
+	# Default: 50
+	# Range: 0 ~ 100000
+	cursed_sandstorm = 50
+	#Ars mana per actual launch or repeated impact.
+	# Default: 300
+	# Range: 0 ~ 100000
+	remnant_charge = 300
+	#Ars mana per actual launch or repeated impact.
+	# Default: 180
+	# Range: 0 ~ 100000
+	remnant_tail_sweep = 180
+	#Ars mana per actual launch or repeated impact.
+	# Default: 25
+	# Range: 0 ~ 100000
+	ashen_breath = 25
+	#Ars mana per actual launch or repeated impact.
+	# Default: 25
+	# Range: 0 ~ 100000
+	blazing_bone = 25
+	#Ars mana per actual launch or repeated impact.
+	# Default: 140
+	# Range: 0 ~ 100000
+	bone_storm = 140
+	#Ars mana per actual launch or repeated impact.
+	# Default: 40
+	# Range: 0 ~ 100000
+	axe_blade = 40
+	#Ars mana per actual launch or repeated impact.
+	# Default: 180
+	# Range: 0 ~ 100000
+	aptrgangr_smash = 180
+	#Ars mana per actual launch or repeated impact.
+	# Default: 90
+	# Range: 0 ~ 100000
+	berserker_cross_slash = 90
+	#Ars mana per actual launch or repeated impact.
+	# Default: 150
+	# Range: 0 ~ 100000
+	berserker_sword_dance = 150
+	#Ars mana per actual launch or repeated impact.
+	# Default: 180
+	# Range: 0 ~ 100000
+	berserker_spin = 180
+	#Ars mana per actual launch or repeated impact.
+	# Default: 320
+	# Range: 0 ~ 100000
+	abyss_mark = 320
+	#Ars mana per actual launch or repeated impact.
+	# Default: 80
+	# Range: 0 ~ 100000
+	priest_glare = 80
+	#Ars mana per actual launch or repeated impact.
+	# Default: 350
+	# Range: 0 ~ 100000
+	void_howitzer = 350
+	#Ars mana per actual launch or repeated impact.
+	# Default: 120
+	# Range: 0 ~ 100000
+	void_scatter_arrow = 120
+	# Default: 10
+	# Range: 0 ~ 100000
+	per_amplify = 10
+
+[bolt_strike]
+	#Addon balance value for native bolt entity base damage.
+	# Default: 16.0
+	# Range: 0.0 ~ 100000.0
+	damage = 16.0
+	#Native warmup ticks; damage follows 12 ticks later.
+	# Default: 34
+	# Range: 0 ~ 1200
+	warmup_ticks = 34
+
+[void_rune]
+	#Damage per native hit. -1 follows Cataclysm's own ability configuration.
+	# Default: -1.0
+	# Range: -1.0 ~ 100000.0
+	damage = -1.0
+	#Initial delay; native attack animation then proceeds normally.
+	# Default: 10
+	# Range: 0 ~ 1200
+	warmup_ticks = 10
+
+[flame_jet]
+	#Damage per native hit. -1 follows Cataclysm's own ability configuration.
+	# Default: -1.0
+	# Range: -1.0 ~ 100000.0
+	damage = -1.0
+	#Initial delay; native attack animation then proceeds normally.
+	# Default: 10
+	# Range: 0 ~ 1200
+	warmup_ticks = 10
+
+[ceraunus]
+	#-1 uses Ceraunus weapon attack damage plus the player's native base 1, without caster melee gear scaling.
+	# Default: -1.0
+	# Range: -1.0 ~ 100000.0
+	damage = -1.0
+
+[wave]
+	#Default 9 matches Scylla's base wave damage. -1 follows the Ceraunus weapon wave configuration.
+	# Default: 9.0
+	# Range: -1.0 ~ 100000.0
+	damage = 9.0
+	#Native wave lifespan for one-shot carriers before Extend Time (+50% per modifier); repeating carriers follow their own lifespan.
+	# Default: 80
+	# Range: 40 ~ 1200
+	lifetime_ticks = 80
+
+[flare_bomb]
+	#Direct native hit damage; Harm amplification also applies to the generated jets.
+	# Default: 7.0
+	# Range: 0.0 ~ 100000.0
+	direct_damage = 7.0
+	#Damage per generated jet; each impact creates the native four-arm pattern, up to 40 jets.
+	# Default: 7.0
+	# Range: 0.0 ~ 100000.0
+	jet_damage = 7.0
+
+[monstrosity]
+	#Native Boss quake centered at the resolved location.
+	# Default: 6.25
+	# Range: 1.0 ~ 32.0
+	quake_radius = 6.25
+	#Healing per absorption wave that actually removes lava. There are three native waves.
+	# Default: 15.0
+	# Range: 0.0 ~ 100000.0
+	absorption_heal = 15.0
+	#Horizontal blocks per tick during the collision-limited shoulder charge.
+	# Default: 0.75
+	# Range: 0.1 ~ 2.0
+	charge_speed = 0.75
+	#Lifetime of each native grounded lava bomb; managed sources cannot spread.
+	# Default: 200
+	# Range: 1 ~ 1200
+	lava_lifetime_ticks = 200
+
+[bone_fracture]
+	#Base duration of the native fracture effect, before duration augments.
+	# Default: 100
+	# Range: 2 ~ 1200
+	duration_ticks = 100
+
+[lava_walking]
+	#Base duration of lava surface walking and lava/burning protection; crouching allows diving.
+	# Default: 600
+	# Range: 2 ~ 1200
+	duration_ticks = 600
+
+[scylla]
+	#Direct damage for both native spears; -1 follows Scylla SpearDamage.
+	# Default: -1.0
+	# Range: -1.0 ~ 100000.0
+	spear_damage = -1.0
+	#Base damage per lightning strike; -1 follows Scylla LightningStormDamage.
+	# Default: -1.0
+	# Range: -1.0 ~ 100000.0
+	storm_damage = -1.0
+	#Damage per native electric-field hit; -1 follows Scylla LightningAreaDamage.
+	# Default: -1.0
+	# Range: -1.0 ~ 100000.0
+	field_damage = -1.0
+	#Damage per serpent strike; -1 follows Scylla SnakeDamage.
+	# Default: -1.0
+	# Range: -1.0 ~ 100000.0
+	serpent_damage = -1.0
+	#Maximum-health fraction added by lightning storms; -1 follows Scylla StormHpDamage.
+	# Default: -1.0
+	# Range: -1.0 ~ 1.0
+	storm_health_fraction = -1.0
+	#Initial delay for the standalone storm, before its native strike animation.
+	# Default: 10
+	# Range: 0 ~ 1200
+	storm_delay_ticks = 10
+	#Standalone electric field duration before duration augments; radius shrinks across this interval.
+	# Default: 160
+	# Range: 20 ~ 1200
+	field_duration_ticks = 160
+	#Cloud formation delay before native water/lightning spear rain. Default shortens the Boss windup; use 115 for native timing.
+	# Default: 40
+	# Range: 0 ~ 1200
+	cloud_warmup_ticks = 40
+	#Sight distance of the action hook, re-sampled when the anchor launches; never loads chunks.
+	# Default: 64
+	# Range: 4 ~ 128
+	anchor_range = 64
+	#Blocks per tick for the collision-limited anchor plunge pull.
+	# Default: 2.0
+	# Range: 0.1 ~ 3.0
+	anchor_pull_speed = 2.0
+	#Water surface walking duration before time augments.
+	# Default: 600
+	# Range: 2 ~ 1200
+	water_walking_duration_ticks = 600
+
+[harbinger]
+	#Allow managed laser impacts to place fire; entity ignition still follows native behavior. No glass destruction or EMP reset.
+	terrain_fire = false
+	#Loaded, visible target ray for native homing launches.
+	# Default: 48
+	# Range: 4 ~ 128
+	homing_range = 48
+
+[ignis]
+	#Allow native Ignis explosions to leave terrain fire; block destruction remains disabled.
+	terrain_fire = false
+
+[ender_guardian]
+	#Maximum target distance for Guardian actor actions; never loads extra chunks.
+	# Default: 32
+	# Range: 4 ~ 128
+	action_target_range = 32
+	#Preparation ticks before the bullet leaves its staging position. Special Ars trajectories keep their own motion.
+	# Default: 30
+	# Range: 1 ~ 200
+	bullet_preparation_ticks = 30
+	#Native vortex lifespan before duration augments; collapse explodes without terrain damage.
+	# Default: 300
+	# Range: 40 ~ 1200
+	vortex_lifetime_ticks = 300
+
+[maledictus]
+	#Ticks before losing one rage level; gaining rage refreshes this interval. Maximum five levels.
+	# Default: 200
+	# Range: 1 ~ 72000
+	rage_decay_ticks = 200
+	#Rage levels gained by the active glyph before potency augments.
+	# Default: 1
+	# Range: 1 ~ 5
+	rage_stacks_per_cast = 1
+	#Initial ground-halberd delay before its native animation and damage window.
+	# Default: 10
+	# Range: 0 ~ 1200
+	halberd_warmup_ticks = 10
+
+[ancient_remnant]
+	#Base lifetime of the three native Boss storms, before duration augments.
+	# Default: 300
+	# Range: 20 ~ 1200
+	storm_lifetime_ticks = 300
+
+[cooldowns]
+	#Gate new active uses through Conflux; existing trajectories keep running.
+	enabled = true
+	creative_cooldown = false
+
+	[cooldowns.ticks]
+		# Default: 0
+		# Range: 0 ~ 72000
+		amethyst_cluster = 0
+		# Default: 0
+		# Range: 0 ~ 72000
+		lionfish_spike = 0
+		# Default: 0
+		# Range: 0 ~ 72000
+		bolt_strike = 0
+		# Default: 0
+		# Range: 0 ~ 72000
+		void_rune = 0
+		# Default: 0
+		# Range: 0 ~ 72000
+		flame_jet = 0
+		# Default: 40
+		# Range: 0 ~ 72000
+		ceraunus = 40
+		# Default: 100
+		# Range: 0 ~ 72000
+		wave = 100
+		# Default: 160
+		# Range: 0 ~ 72000
+		flare_bomb = 160
+		# Default: 100
+		# Range: 0 ~ 72000
+		lava_bomb = 100
+		# Default: 160
+		# Range: 0 ~ 72000
+		earthquake = 160
+		# Default: 200
+		# Range: 0 ~ 72000
+		fissure = 200
+		# Default: 200
+		# Range: 0 ~ 72000
+		flame_ring = 200
+		# Default: 80
+		# Range: 0 ~ 72000
+		shoulder_check = 80
+		# Default: 400
+		# Range: 0 ~ 72000
+		lava_absorption = 400
+		# Default: 350
+		# Range: 0 ~ 72000
+		monstrous = 350
+		# Default: 0
+		# Range: 0 ~ 72000
+		bone_fracture = 0
+		# Default: 0
+		# Range: 0 ~ 72000
+		lava_walking = 0
+		# Default: 40
+		# Range: 0 ~ 72000
+		water_spear = 40
+		# Default: 60
+		# Range: 0 ~ 72000
+		lightning_spear = 60
+		# Default: 120
+		# Range: 0 ~ 72000
+		storm_serpent = 120
+		# Default: 80
+		# Range: 0 ~ 72000
+		lightning_storm = 80
+		# Default: 100
+		# Range: 0 ~ 72000
+		lightning_field = 100
+		# Default: 240
+		# Range: 0 ~ 72000
+		storm_burst = 240
+		# Default: 60
+		# Range: 0 ~ 72000
+		spark = 60
+		# Default: 400
+		# Range: 0 ~ 72000
+		thunder_cloud = 400
+		# Default: 200
+		# Range: 0 ~ 72000
+		lightning_row = 200
+		# Default: 360
+		# Range: 0 ~ 72000
+		thunder_combo = 360
+		# Default: 240
+		# Range: 0 ~ 72000
+		anchor_spin = 240
+		# Default: 300
+		# Range: 0 ~ 72000
+		anchor_leap = 300
+		# Default: 0
+		# Range: 0 ~ 72000
+		water_walking = 0
+		# Default: 0
+		# Range: 0 ~ 72000
+		laser_bolt = 0
+		# Default: 60
+		# Range: 0 ~ 72000
+		wither_missile = 60
+		# Default: 80
+		# Range: 0 ~ 72000
+		homing_missile = 80
+		# Default: 160
+		# Range: 0 ~ 72000
+		wither_howitzer = 160
+		# Default: 200
+		# Range: 0 ~ 72000
+		death_laser = 200
+		# Default: 80
+		# Range: 0 ~ 72000
+		harbinger_charge = 80
+		# Default: 80
+		# Range: 0 ~ 72000
+		howitzer_volley = 80
+		# Default: 60
+		# Range: 0 ~ 72000
+		missile_salvo = 60
+		# Default: 20
+		# Range: 0 ~ 72000
+		wither_smoke = 20
+		# Default: 0
+		# Range: 0 ~ 72000
+		guardian_bullet = 0
+		# Default: 300
+		# Range: 0 ~ 72000
+		void_vortex = 300
+		# Default: 200
+		# Range: 0 ~ 72000
+		guardian_stomp = 200
+		# Default: 80
+		# Range: 0 ~ 72000
+		gravity_punch = 80
+		# Default: 200
+		# Range: 0 ~ 72000
+		guardian_uppercut = 200
+		# Default: 120
+		# Range: 0 ~ 72000
+		guardian_blink = 120
+		# Default: 240
+		# Range: 0 ~ 72000
+		guardian_air_strike = 240
+		# Default: 100
+		# Range: 0 ~ 72000
+		guardian_rocket_punch = 100
+		# Default: 40
+		# Range: 0 ~ 72000
+		ignis_fireball = 40
+		# Default: 80
+		# Range: 0 ~ 72000
+		ignis_abyss_fireball = 80
+		# Default: 120
+		# Range: 0 ~ 72000
+		ignis_blade_fireballs = 120
+		# Default: 160
+		# Range: 0 ~ 72000
+		ignis_air_smash = 160
+		# Default: 240
+		# Range: 0 ~ 72000
+		ignis_sword_combo = 240
+		# Default: 160
+		# Range: 0 ~ 72000
+		ignis_fireball_array = 160
+		# Default: 240
+		# Range: 0 ~ 72000
+		ignis_earth_shudders = 240
+		# Default: 300
+		# Range: 0 ~ 72000
+		ignis_reinforced_smash = 300
+		# Default: 400
+		# Range: 0 ~ 72000
+		ignis_ultimate = 400
+		# Default: 120
+		# Range: 0 ~ 72000
+		ignis_flame_strike = 120
+		# Default: 0
+		# Range: 0 ~ 72000
+		phantom_arrow = 0
+		# Default: 0
+		# Range: 0 ~ 72000
+		phantom_halberd = 0
+		# Default: 0
+		# Range: 0 ~ 72000
+		cursed_rage = 0
+		# Default: 120
+		# Range: 0 ~ 72000
+		phantom_spiral = 120
+		# Default: 100
+		# Range: 0 ~ 72000
+		phantom_rings = 100
+		# Default: 250
+		# Range: 0 ~ 72000
+		halberd_cleave = 250
+		# Default: 150
+		# Range: 0 ~ 72000
+		soul_burst = 150
+		# Default: 100
+		# Range: 0 ~ 72000
+		maledictus_aerial_smash = 100
+		# Default: 100
+		# Range: 0 ~ 72000
+		phantom_aerial_volley = 100
+		# Default: 80
+		# Range: 0 ~ 72000
+		maledictus_rush = 80
+		# Default: 100
+		# Range: 0 ~ 72000
+		maledictus_shockwave = 100
+		# Default: 80
+		# Range: 0 ~ 72000
+		maledictus_uppercut = 80
+		# Default: 80
+		# Range: 0 ~ 72000
+		maledictus_melee_combo = 80
+		# Default: 100
+		# Range: 0 ~ 72000
+		maledictus_spin_slashes = 100
+		# Default: 0
+		# Range: 0 ~ 72000
+		abyss_orb = 0
+		# Default: 20
+		# Range: 0 ~ 72000
+		abyss_mine = 20
+		# Default: 200
+		# Range: 0 ~ 72000
+		abyss_blast = 200
+		# Default: 160
+		# Range: 0 ~ 72000
+		abyss_bombardment = 160
+		# Default: 400
+		# Range: 0 ~ 72000
+		dimensional_rift = 400
+		# Default: 100
+		# Range: 0 ~ 72000
+		tidal_tentacle = 100
+		# Default: 240
+		# Range: 0 ~ 72000
+		abyss_minefield = 240
+		# Default: 400
+		# Range: 0 ~ 72000
+		abyss_bombardment_array = 400
+		# Default: 160
+		# Range: 0 ~ 72000
+		abyss_orb_array = 160
+		# Default: 240
+		# Range: 0 ~ 72000
+		abyss_triple_blast = 240
+		# Default: 240
+		# Range: 0 ~ 72000
+		sandstorm_ring = 240
+		# Default: 0
+		# Range: 0 ~ 72000
+		desert_stele = 0
+		# Default: 0
+		# Range: 0 ~ 72000
+		ground_quake = 0
+		# Default: 160
+		# Range: 0 ~ 72000
+		remnant_stomp = 160
+		# Default: 320
+		# Range: 0 ~ 72000
+		desert_stele_array = 320
+		# Default: 200
+		# Range: 0 ~ 72000
+		remnant_triple_quake = 200
+		# Default: 0
+		# Range: 0 ~ 72000
+		cursed_sandstorm = 0
+		# Default: 240
+		# Range: 0 ~ 72000
+		remnant_charge = 240
+		# Default: 160
+		# Range: 0 ~ 72000
+		remnant_tail_sweep = 160
+		# Default: 80
+		# Range: 0 ~ 72000
+		ashen_breath = 80
+		# Default: 0
+		# Range: 0 ~ 72000
+		blazing_bone = 0
+		# Default: 160
+		# Range: 0 ~ 72000
+		bone_storm = 160
+		# Default: 0
+		# Range: 0 ~ 72000
+		axe_blade = 0
+		# Default: 80
+		# Range: 0 ~ 72000
+		aptrgangr_smash = 80
+		# Default: 60
+		# Range: 0 ~ 72000
+		berserker_cross_slash = 60
+		# Default: 80
+		# Range: 0 ~ 72000
+		berserker_sword_dance = 80
+		# Default: 160
+		# Range: 0 ~ 72000
+		berserker_spin = 160
+		# Default: 160
+		# Range: 0 ~ 72000
+		abyss_mark = 160
+		# Default: 160
+		# Range: 0 ~ 72000
+		priest_glare = 160
+		# Default: 120
+		# Range: 0 ~ 72000
+		void_howitzer = 120
+		# Default: 40
+		# Range: 0 ~ 72000
+		void_scatter_arrow = 40
+
+[damage]
+	#Cap otherwise uncapped target maximum-health damage at the fixed damage of the same hit, before augments and Ars scaling. Only addon casts; false preserves native formulas and existing native caps.
+	cap_health_damage = true
+
+[damage_augments]
+	#Base native hit fraction per Amplify/Dampen, before Ars equipment scaling. Each hit segment uses its own unaugmented base.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	fraction = 0.2
+	# Default: 2.0
+	# Range: 0.0 ~ 100000.0
+	minimum = 2.0
+	# Default: 10.0
+	# Range: 0.0 ~ 100000.0
+	maximum = 10.0

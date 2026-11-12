@@ -1,0 +1,51 @@
+[diagnostics]
+	#Log bounded client lifecycle and native renderer observations for Void Vortices.
+	#Diagnostic only: does not disable optimizers or change vortex behavior.
+	#At most 8 vortices per client world; rejoin to start a new capture.
+	vortex = false
+
+[action_phantoms]
+	#Visual-only native Ignis Sword Dance phantom, for entity and position anchored actions.
+	ignis_sword_dance = true
+	#Visual-only native Ignis smash, earth shudders and ultimate phantoms.
+	ignis_actions = true
+	#Native Scylla thunder combo, anchor spin and leap phantoms.
+	scylla_actions = true
+	#Native Harbinger charge phantom.
+	harbinger_actions = true
+	#Native Ender Guardian punch, uppercut, blink and air strike phantoms.
+	guardian_actions = true
+	#Native Monstrosity shoulder check phantom.
+	monstrosity_actions = true
+	#Native Maledictus combat and soul burst phantoms.
+	maledictus_actions = true
+	#Native Ancient Remnant formation and triple-quake phantoms.
+	remnant_actions = true
+	#Native Ignited Revenant bone storm phantom.
+	revenant_actions = true
+	#Native Deepling Priest glare animation and light rays.
+	priest_glare = true
+	#Native Ignited Berserker action phantoms.
+	berserker_actions = true
+	#Native Aptrgangr smash phantom.
+	aptrgangr_actions = true
+	#Opacity of native body/model layers. Does not change damage or attack range.
+	# Default: 0.28
+	# Range: 0.0 ~ 1.0
+	opacity = 0.28
+	#Lower opacity when the local player is the executor and the camera is first person.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	first_person_opacity = 0.1
+	#Separate opacity of native action rings, arcs and lightning; the body stays translucent.
+	# Default: 0.8
+	# Range: 0.0 ~ 1.0
+	effect_opacity = 0.8
+	#Action ring/arc opacity for the local executor in first person.
+	# Default: 0.65
+	# Range: 0.0 ~ 1.0
+	first_person_effect_opacity = 0.65
+	#Visual scale only; 1 keeps the original Boss weapon reach. Does not change hitboxes.
+	# Default: 1.0
+	# Range: 0.25 ~ 2.0
+	scale = 1.0

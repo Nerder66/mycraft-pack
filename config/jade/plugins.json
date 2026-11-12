@@ -82,6 +82,13 @@
   "waystones": {
     "waystone": true
   },
+  "smokeleafindustries": {
+    "drying_rack": true,
+    "reflector": true,
+    "grow_pot_jade": true,
+    "weed_crop_jade": true,
+    "unidentified_crop_name": true
+  },
   "balm": {
     "jade": true
   },

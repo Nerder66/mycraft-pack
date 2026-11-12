@@ -1,0 +1,36 @@
+[mana_attribute_limits]
+	#Raise native Ars mana attribute ceilings. Does not grant mana or regeneration. Never lowers a larger native/modded ceiling. Requires restart; match client/server.
+	enabled = true
+	#Upper bound allowed by the Ars maximum-mana attribute; independent of each actor's actual mana.
+	# Default: 1000000
+	# Range: > 0
+	maximum_mana = 1000000
+	#Upper bound allowed by the Ars mana-regeneration attribute, in mana per second.
+	# Default: 100000
+	# Range: > 0
+	maximum_regeneration = 100000
+
+[optional_content]
+	#Register Ars Elemental's Carian Phalanx in normal games when its implementation is present.
+	#Also adds an Ars Scribe's Table recipe. Uses Elemental's original glyph, texture and mechanics.
+	#False preserves Elemental's own registration policy. Requires a restart; match client and server.
+	enable_elemental_phalanx = false
+	#Register the nonstandard Nearby Allies cast method and Scribe recipe. Requires restart; match client and server.
+	enable_nearby_allies = false
+	#Register NEG form propagators when NEG and the corresponding optional cast method are enabled. Requires restart; match client/server.
+	enable_neg_form_propagators = true
+
+[compatibility]
+	#Enable optional AAP/NEG augment extensions and weighted Controle delays. Requires restart; match client and server.
+	enable_augment_extensions = true
+	#Enable optional Ars Zero 2.0.2 active uses, repeat billing, shield reflection, projectile controls, impact directions and equivalent augments. Requires restart.
+	enable_zero_compatibility = true
+	#Apply the reviewed Ars Zero native safety, source accounting, client glyph-grid and disabled-glyph recipe fixes. Requires restart.
+	enable_zero_native_fixes = true
+	#Use preceding-execution targets for Ars Zero temporal spells. Requires restart; match client and server.
+	zero_previous_phase_targets = true
+
+[schools]
+	#School IDs to register percentage spell-power attributes for, e.g. example:radiance.
+	#Empty by default. Requires restart and matching client/server lists. Data definitions and glyph weights still support reload.
+	power_attributes = []
