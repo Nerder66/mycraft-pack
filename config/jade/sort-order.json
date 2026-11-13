@@ -5,6 +5,7 @@
   "apothic_spawners:spawner": null,
   "ars_nouveau:mob_jar": null,
   "balm:jade": null,
+  "corpse:corpse": null,
   "jade:block_face": null,
   "jade:block_properties": null,
   "jade:block_states": null,
@@ -70,5 +71,8 @@
   "smokeleafindustries:reflector": null,
   "smokeleafindustries:unidentified_crop_name": null,
   "smokeleafindustries:weed_crop_jade": null,
+  "supplementaries:hat_stand": null,
+  "supplementaries:present": null,
+  "supplementaries:safe": null,
   "waystones:waystone": null
 }

@@ -65,6 +65,9 @@
     "entity": true,
     "entity_variant": true
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -88,6 +91,9 @@
     "grow_pot_jade": true,
     "weed_crop_jade": true,
     "unidentified_crop_name": true
+  },
+  "corpse": {
+    "corpse": true
   },
   "balm": {
     "jade": true
