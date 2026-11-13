@@ -1,4 +1,5 @@
 [
   {"version":2},
-  {"ingredient":{"id":"farmersdelight:organic_compost"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"farmersdelight:organic_compost"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:music_disc_otherside"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -10,6 +10,10 @@ file = "config/DistantHorizons.toml.bak-before-lowload"
 hash = "eeee4fbbc86ddd148febdfa118afc2ebbbd33f4e3a7f1ec50f387edc914f808c"
 
 [[files]]
+file = "config/aeronauticadditions-common.toml"
+hash = "b12cf45d04c4fcd1efd398f616343aab32569fd2bb7463da0ababb146356b3a1"
+
+[[files]]
 file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
@@ -31,7 +35,7 @@ hash = "31f984e61e7f46644a8b354516db27b7c3d5fe40074ea6281dd066331dfbf19e"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "c93fd69a884bc25d07067deb67f962124d7996f3e5d52d2dadf176ec02251a6a"
+hash = "8a49e1889b3eb625ca44e9c84aa75f7b0e20d0de568142a444c01c6ba2b42df3"
 
 [[files]]
 file = "config/apothic_spawners.cfg"
@@ -41,6 +45,26 @@ hash = "eda93df8c30acf8d7e14f4f2baf583f77ec37fcc05d8acc85988ffd465d5038c"
 file = "config/appleskin-client.toml"
 hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
 preserve = true
+
+[[files]]
+file = "config/archers/effects.json"
+hash = "eac16ab70581aad79f7174aa8c1064af0cecfd1ef90ab6dd7742ebc1eada367b"
+
+[[files]]
+file = "config/archers/equipment.json"
+hash = "2bf86fa5d0be8ba1aec135bf98de31bdf797c94987e564ba9d48d399a8a8708f"
+
+[[files]]
+file = "config/archers/summoned_entities.json"
+hash = "3b2d4f98c7f593c918145a0f76ffad1a7b412dd2d9433dcea3bbca17358e5800"
+
+[[files]]
+file = "config/archers/tweaks.json"
+hash = "8f7e16c3a3b2ddd496a7fd12cfdedae2874e9340820dde5db4bfffb53823d6c6"
+
+[[files]]
+file = "config/archers/villages.json"
+hash = "4408dae1e07e575518233ff8a53fbf918049f15ed51a0b570ea231e6dd85aa2e"
 
 [[files]]
 file = "config/ars_additions-common.toml"
@@ -750,6 +774,23 @@ file = "config/arsomega/glyph_propagate_underfoot.toml"
 hash = "3361f6c40df5e05259c752265458ed7bee8d7d9c8d19a74d3ef61783c90e42b0"
 
 [[files]]
+file = "config/bettercombat/client.json5"
+hash = "2d853633deff976b16e7e973c168134886fe8c06ec5108a077d835db97b5ff18"
+preserve = true
+
+[[files]]
+file = "config/bettercombat/fallback_compatibility.json"
+hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
+
+[[files]]
+file = "config/bettercombat/server.json5"
+hash = "3f50d34e55861d3ca4d9557bf21c154d297abe01f37d11c6a84d70a2255b5e83"
+
+[[files]]
+file = "config/bettercombat/weapon_trails.json"
+hash = "fd14cc025b6d6c54bc2ddff136f0298c0ba132dbe98c2c9c845b47b8286fc45c"
+
+[[files]]
 file = "config/betterdeserttemples-neoforge-1_21.toml"
 hash = "c7355a13f2f7c4eeb3332ab67a2315e0662c7e5b434dc33d4624fccb9e815240"
 
@@ -1303,6 +1344,10 @@ file = "config/create-server.toml"
 hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
 
 [[files]]
+file = "config/create-stuff-additions.toml"
+hash = "e4a3988ff64923d8e08952951186cc6a67a5a04427766f5322c8e0a67077c5e5"
+
+[[files]]
 file = "config/create_dragons_plus-client.toml"
 hash = "cf30f0e99ef65fe80e80481bf9aaafefdbbf97adb84c0c3611ac2d9ca3cf8a28"
 preserve = true
@@ -1339,6 +1384,10 @@ hash = "ba7ae48de21489764763fbcfa70a0751114cec08af0d0dfebee03af1f5892ca1"
 [[files]]
 file = "config/create_enchantment_industry-server.toml"
 hash = "33a9dbca0cf3e8572343b31546a4b34dee3878d11301556cf1af70dc7dfa565b"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "85e4609662ef31a8ef6208ae5cb0f384ae98f5700cd7ba9405dbb6a1143497a4"
 
 [[files]]
 file = "config/createbigcannons-client.toml"
@@ -1385,12 +1434,16 @@ file = "config/fml.toml"
 hash = "1ac1fd9694773ef1ec8af42c9cc8a908a1b618fa6fb6031c27305383e97f70c7"
 
 [[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
+
+[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "a11565bfedfc8a8d323ef5254950ef7e72b57ccf47f03767bed714d8b3d52f7b"
+hash = "6a8f4c636720a8b9d709e36765b3637ebe2b916750e57e44770cf4657c151f96"
 preserve = true
 
 [[files]]
@@ -1440,7 +1493,7 @@ preserve = true
 
 [[files]]
 file = "config/jei/client/ingredient-list-mod-sort-order.ini"
-hash = "5b76195e3d003c4a9e9bdf46c2ed205048bd815cde825955c1f36db1b09de43d"
+hash = "0c4626c951f2b02c4e47e6abb0b07d94f72a6b586c8691e3743c61f564fc99c2"
 preserve = true
 
 [[files]]
@@ -1455,7 +1508,7 @@ preserve = true
 
 [[files]]
 file = "config/jei/client/recipe-category-sort-order.ini"
-hash = "256700eb92bd2fdc06054906cb7b8e6db5f293160cbea51aaa2bbe0d22211084"
+hash = "dbce09d4cdf76bf82e4c8e5cb29736ae1ccf78c5e6fef3348414804e79971031"
 preserve = true
 
 [[files]]
@@ -1465,7 +1518,7 @@ preserve = true
 
 [[files]]
 file = "config/jei/world/server/Minecraft Server (localhost)/bookmarks.json"
-hash = "9b9a24f5d317aeff571f3c2b534744b9eb7cdb0012141ab2d9a05b388bd68710"
+hash = "d39d0f5cae453507141f657ed9966a59b6f38b81a50b555fd611caf624816068"
 preserve = true
 
 [[files]]
@@ -1665,6 +1718,35 @@ file = "config/offroad-server.toml"
 hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
 
 [[files]]
+file = "config/overflowingbars-client.toml"
+hash = "9037e801784c5d10420d23445e1086e8ac39480bce15eef4b73d9b519a373561"
+preserve = true
+
+[[files]]
+file = "config/paladins/effects.json"
+hash = "c105baa05fb320b4752592ef2037ff5cab60734cff6f7724d4415a3a70061aa7"
+
+[[files]]
+file = "config/paladins/equipment_v2.json"
+hash = "9cba9de567c67cce65a69348f139be103f5f2a848c88fa533458835326148e59"
+
+[[files]]
+file = "config/paladins/shields.json"
+hash = "57fb6ffa32979da15dcd4c5d59a87cb819c499bdec7d3d4cd87226957affcad5"
+
+[[files]]
+file = "config/paladins/summoned_entities.json"
+hash = "9462b9ea5e54ec02b1b2c27aca64f99c26b2e830bbd4bb44c1420a7091b7ad3f"
+
+[[files]]
+file = "config/paladins/tweaks.json"
+hash = "1f6f35489bc3b5df6476bd59a50d82919e393fa6b43715afb9d3428b0aacf780"
+
+[[files]]
+file = "config/paladins/villages.json"
+hash = "1f055f8cdc62d4035fecc05af7a1b6398ff0f9efdacc4422c4e58d8ec0a253bb"
+
+[[files]]
 file = "config/patchouli-client.toml"
 hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
 preserve = true
@@ -1681,6 +1763,38 @@ preserve = true
 [[files]]
 file = "config/puffish_skills/config.json"
 hash = "548156b84adda7e833d8f8d0cc5dd82dff1ba23a93011c4770ad548f1b9c82b0"
+
+[[files]]
+file = "config/rogues/effects.json"
+hash = "5427ca4a0115db731f65ed2a0e4ccd61b33985bd1d86466ca0759b4fc3a1da5b"
+
+[[files]]
+file = "config/rogues/equipment_v3.json"
+hash = "9b0f6fda6333b518194be5ffb3cad18521e83f05054d7a7b2527108601982a1c"
+
+[[files]]
+file = "config/rogues/tweaks.json"
+hash = "a306759fe0cc550aa2ce6398373af9824f143626e6bc0e06678e031bd46cbd6c"
+
+[[files]]
+file = "config/rogues/villages.json"
+hash = "df238509966b714649d6c7166fa102ea68863d265e6762bafa89577943842dc6"
+
+[[files]]
+file = "config/rpg_series/loot_equipment_v2.json"
+hash = "def36ccc6f024b1fb9686148d62a9b58637acf227a6dec37fa536101736807c6"
+
+[[files]]
+file = "config/rpg_series/loot_misc.json"
+hash = "9c2a19fe10a7b6cb5ce5bec7da83bd37d348eeace71157c76697ff9371b172d7"
+
+[[files]]
+file = "config/rpg_series/loot_scrolls_v2.json"
+hash = "97635814eddfe6c691c13cc25c01345b9da87a7588e3b5af11d1903d6e52cf9e"
+
+[[files]]
+file = "config/rpg_series/tag_cache.json"
+hash = "d6279d4d2faa9ef7818ea22946c2fd25166ea18992d5f8595908a089f590a15c"
 
 [[files]]
 file = "config/sable-client.toml"
@@ -1702,6 +1816,42 @@ hash = "230fb11ff516749c8b60ebc9e8db79810e501d3cd48e8a2656c2f87ac5bfd79c"
 [[files]]
 file = "config/sauce-startup.toml"
 hash = "8d3b81bd9c12cefce965196bc430d22e9b90733f1bca7acec3734f3d52eb49c1"
+
+[[files]]
+file = "config/simplyswords/compatibility.toml"
+hash = "e7a5c5756ccadd5d968049a8820c83dce700d7d478a843385688d38d135a9217"
+
+[[files]]
+file = "config/simplyswords/gem_powers.toml"
+hash = "4f911868905452dc01a779d424fe298c583cc31ae57b0c76157c806f70c38727"
+
+[[files]]
+file = "config/simplyswords/general.toml"
+hash = "0452c273bf163f178c6b03663070a9d732a63e3fecbb28b3fd4fb45dd3c6eafa"
+
+[[files]]
+file = "config/simplyswords/gui.toml"
+hash = "d34c7814baa027aa67fde721f3a437bcb6b3e9a89f0245970fd1489525ef5620"
+
+[[files]]
+file = "config/simplyswords/loot.toml"
+hash = "d4a49a7f776392a6643171d6b440c0afb897b285ba88c44aa8386b2aa2c9d55a"
+
+[[files]]
+file = "config/simplyswords/status_effects.toml"
+hash = "978429e6e9aa6852c38d67cc221d7d71d8502b92df3a5803ff8c3b6966c890ce"
+
+[[files]]
+file = "config/simplyswords/unique_effects.toml"
+hash = "a2d2026d1db8aad6397e348d2361a8d19f498157ecf47c7bafe58ede85679af6"
+
+[[files]]
+file = "config/simplyswords/weapon_attributes.toml"
+hash = "7880be9f01875cd9e99c653c5afb1c41d98a9e649657f08bd47e702895fe133b"
+
+[[files]]
+file = "config/simplytooltips/config.toml"
+hash = "3e5b250f6fa5e4ffb246fd04e6dcffde1cbf4da77d424e9d88e115444427cb09"
 
 [[files]]
 file = "config/simulated-client.toml"
@@ -1769,6 +1919,35 @@ hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
 [[files]]
 file = "config/spark/tmp/about.txt"
 hash = "d7514c0ddb6ae8611a281527bf04ca6cbcea1fa21758534fdcd08ed0f51c19c0"
+
+[[files]]
+file = "config/spell_engine/client.json5"
+hash = "cbbe02482b857f1d1c460649a935a6232ce6ad17680f52949330e4a3036eaf9d"
+preserve = true
+
+[[files]]
+file = "config/spell_engine/elemental_weaknesses.json"
+hash = "6979c988ceab84dfaca3aacb4c60cfe067987f6a323c8eaddb911ffa9a257219"
+
+[[files]]
+file = "config/spell_engine/hud_config.json"
+hash = "b3342d39bea6633b095b67dcb7d6fbccf07ea9ddd19116ea4ca2cd747861f318"
+
+[[files]]
+file = "config/spell_engine/server.json5"
+hash = "a1f8cb3071bf9db94ff246eb94607be6e206ae58798555eec04c7ec53ebe0db6"
+
+[[files]]
+file = "config/spell_engine/spell_container_templates_v2.json"
+hash = "acd0869d6cce36ffe7a6f44db42c7ad8aa66183d94d05a9740484da9766bb972"
+
+[[files]]
+file = "config/spell_engine/weapon_fallback.json"
+hash = "9962841ccc06487c97ec1d4bdac6a505fcbece925c978ff9b4e866f2ad6bab8d"
+
+[[files]]
+file = "config/spell_power/attributes.json"
+hash = "d9dac360395eece6921915a07db4743ed9cbfc0f4bb747c780b6484c2299b04e"
 
 [[files]]
 file = "config/ssrd-common.toml"
@@ -2049,6 +2228,11 @@ file = "mods/betterlectern-1.0.0.jar"
 hash = "73770de45701458188aae9d3a9bf3dd84a9d39d0b62fed755995793f383dca03"
 
 [[files]]
+file = "mods/born_in_chaos_[neoforge]_1.21.1_1.7.6.pw.toml"
+hash = "b4799ba659ca0b75a4faaf9fcaa52bc0a3c5e4fd296afcc477acf23182983753"
+metafile = true
+
+[[files]]
 file = "mods/brewinandchewin-neoforge-4.5.0+1.21.1.pw.toml"
 hash = "9ae54b780c53143ce76fc3b40db4d7fa2226851f1b1200c6e9cc450003bae798"
 metafile = true
@@ -2071,6 +2255,16 @@ metafile = true
 [[files]]
 file = "mods/comforts-neoforge-9.0.5+1.21.1.pw.toml"
 hash = "749ef16f868e6cf54c5e1b795f80b224a489e09368b3cdb79063d77ed3e7c7dd"
+metafile = true
+
+[[files]]
+file = "mods/copycats-3.0.11+mc.1.21.1-neoforge.pw.toml"
+hash = "c85de9d2177e18d0f007d19df5e170df6e53a6a565676b677153006f0b8d7c11"
+metafile = true
+
+[[files]]
+file = "mods/corgilib-neoforge-1.21.1-5.0.0.10.pw.toml"
+hash = "4e6824b537c33eed981e9e99ee7cda791a4e3f895ce8508acd56cba413e721b3"
 metafile = true
 
 [[files]]
@@ -2134,8 +2328,43 @@ hash = "e59a6f62d1838aeee3d0e89b831a3bed82acf5949bc59b68d14914ab525d9673"
 metafile = true
 
 [[files]]
+file = "mods/data_anchor-neoforge-1.21.1-2.0.0.18.pw.toml"
+hash = "1abaa8cab4540af2e60e0d4ae344164effcaad4a622dd5b91624f69ad82f2676"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker-neoforge-1.21.1-1.4.1.pw.toml"
+hash = "e241c968704901397235bf586b97630724d739fe8b3ef23dcd9ba3dc14f4ab6b"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons-3.3.3-1.21.1-fabric-neoforge.pw.toml"
 hash = "023c5dd9a3ebf4491191cecb1421049c7b8c4d35744fa4cfee0cc5e80bca4c2d"
+metafile = true
+
+[[files]]
+file = "mods/dungeonsarise-1.21.1-2.1.68-release.pw.toml"
+hash = "6f06726f8e0f4b19edbd7b8bd7444be75ec8a90e422df5ee5d43e7479298354b"
+metafile = true
+
+[[files]]
+file = "mods/dungeonsarisesevenseas-1.21.x-1.0.4-neoforge.pw.toml"
+hash = "7f482869668ccb41348a6f8d414071d2b038949d9849fd8da2708aadaaaa561d"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-2-core-neoforge-1.21.1-2.0.3.4.pw.toml"
+hash = "f251851aee60467392b6c3b47ed5053e125ad3b781c450d49e799f1784d3ad5d"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-2-default-lunar-events-neoforge-1.21.1-2.0.1.4.pw.toml"
+hash = "f627b3362a92b830cc0d208d793afd57f64776a78295b8dad082d9bf0403eac3"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-2-shaders-neoforge-1.21.1-2.0.0.4.pw.toml"
+hash = "9e0a5aa01e75ded1a43c71779be412e5d9bf675247b9cbd7810ad58d60b92386"
 metafile = true
 
 [[files]]
@@ -2161,6 +2390,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib-neoforge-1.21.1-4.9.3.pw.toml"
 hash = "b88c97a84404e054d7ef9299d8b74222a82005e3d8e8e9200967b7b450f45715"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted-neoforge-1.21.1-4.0.3.pw.toml"
+hash = "262fddd60c485d97421c66ed9ca662bc6650801c3ee846de00f0c08b18205fce"
 metafile = true
 
 [[files]]
@@ -2234,6 +2468,11 @@ hash = "e1c2f36cdc9a6403587e41a88d9e34b1b555622efd8e86ea0ce33fd02ad43eb8"
 metafile = true
 
 [[files]]
+file = "mods/mutantmonsters-v21.1.1-1.21.1-neoforge.pw.toml"
+hash = "fafac915fbbd344b5c5945f6c4ea05e24950b28762d9befe843b8fba297e92a7"
+metafile = true
+
+[[files]]
 file = "mods/not_enough_glyphs-1.21.1-4.6.2.pw.toml"
 hash = "c1f9f9dc159b7b65f3115f7ee1069accad27befa93307bad6da36b77b8157baa"
 metafile = true
@@ -2291,6 +2530,11 @@ metafile = true
 [[files]]
 file = "mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.pw.toml"
 hash = "de4050d4f8ff176a59b064a55b5c827c9f22a5634d7b106e09aef5ec51498f72"
+metafile = true
+
+[[files]]
+file = "mods/resourcefullib-neoforge-1.21-3.0.12.pw.toml"
+hash = "ae77da156745f4a7911971ef0435c4a8be84665813f94b6bc7b327698bddea09"
 metafile = true
 
 [[files]]
@@ -2488,67 +2732,3 @@ file = "shaderpacks/complementaryreimagined_r5.9.3.pw.toml"
 hash = "ccfcdf2c44698881050605d905f1a6eac665dc5e86159ea8025994034b743678"
 metafile = true
 
-[[files]]
-file = "mods/born_in_chaos_[neoforge]_1.21.1_1.7.6.pw.toml"
-hash = "b4799ba659ca0b75a4faaf9fcaa52bc0a3c5e4fd296afcc477acf23182983753"
-metafile = true
-
-[[files]]
-file = "mods/copycats-3.0.11+mc.1.21.1-neoforge.pw.toml"
-hash = "c85de9d2177e18d0f007d19df5e170df6e53a6a565676b677153006f0b8d7c11"
-metafile = true
-
-[[files]]
-file = "mods/corgilib-neoforge-1.21.1-5.0.0.10.pw.toml"
-hash = "4e6824b537c33eed981e9e99ee7cda791a4e3f895ce8508acd56cba413e721b3"
-metafile = true
-
-[[files]]
-file = "mods/data_anchor-neoforge-1.21.1-2.0.0.18.pw.toml"
-hash = "1abaa8cab4540af2e60e0d4ae344164effcaad4a622dd5b91624f69ad82f2676"
-metafile = true
-
-[[files]]
-file = "mods/deeperdarker-neoforge-1.21.1-1.4.1.pw.toml"
-hash = "e241c968704901397235bf586b97630724d739fe8b3ef23dcd9ba3dc14f4ab6b"
-metafile = true
-
-[[files]]
-file = "mods/dungeonsarise-1.21.1-2.1.68-release.pw.toml"
-hash = "d4f8139d88e99fa62a13849aa96fe2cdf95758ea4998c44ac6309b3204f3f289"
-metafile = true
-
-[[files]]
-file = "mods/dungeonsarisesevenseas-1.21.x-1.0.4-neoforge.pw.toml"
-hash = "623dcb8b841b0cea7bcda95b84b0db288fb07ffd59572e198cfa7f2065a8fdb8"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-celestials-2-core-neoforge-1.21.1-2.0.3.4.pw.toml"
-hash = "f251851aee60467392b6c3b47ed5053e125ad3b781c450d49e799f1784d3ad5d"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-celestials-2-default-lunar-events-neoforge-1.21.1-2.0.1.4.pw.toml"
-hash = "f627b3362a92b830cc0d208d793afd57f64776a78295b8dad082d9bf0403eac3"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-celestials-2-shaders-neoforge-1.21.1-2.0.0.4.pw.toml"
-hash = "9e0a5aa01e75ded1a43c71779be412e5d9bf675247b9cbd7810ad58d60b92386"
-metafile = true
-
-[[files]]
-file = "mods/handcrafted-neoforge-1.21.1-4.0.3.pw.toml"
-hash = "262fddd60c485d97421c66ed9ca662bc6650801c3ee846de00f0c08b18205fce"
-metafile = true
-
-[[files]]
-file = "mods/mutantmonsters-v21.1.1-1.21.1-neoforge.pw.toml"
-hash = "fafac915fbbd344b5c5945f6c4ea05e24950b28762d9befe843b8fba297e92a7"
-metafile = true
-
-[[files]]
-file = "mods/resourcefullib-neoforge-1.21-3.0.12.pw.toml"
-hash = "ae77da156745f4a7911971ef0435c4a8be84665813f94b6bc7b327698bddea09"
-metafile = true
