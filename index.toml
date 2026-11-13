@@ -1893,6 +1893,11 @@ hash = "4a64f44c6b5f55b5c2abb1cef54ff8f3b71381ccd4ecf06075dfc16ad806bd4f"
 metafile = true
 
 [[files]]
+file = "mods/appleskin-neoforge-mc1.21-3.0.9.pw.toml"
+hash = "82183916b6faf37c9e81090bc603e903971966227313cacde2a64bece12f03f2"
+metafile = true
+
+[[files]]
 file = "mods/ars_additions-1.21.1-21.3.0.pw.toml"
 hash = "aff19cc7499728f1fb901115f4d544a31524390f0dc7661748c0ed703461d3d9"
 metafile = true
@@ -1953,6 +1958,16 @@ metafile = true
 [[files]]
 file = "mods/cbc_equally_opposite-0.1.3.pw.toml"
 hash = "9a6b70e2a90593af6c36d9e8a794c50f9a9f163f965e67c92fe91251c9468223"
+metafile = true
+
+[[files]]
+file = "mods/comforts-neoforge-9.0.5-1.21.1.pw.toml"
+hash = "749ef16f868e6cf54c5e1b795f80b224a489e09368b3cdb79063d77ed3e7c7dd"
+metafile = true
+
+[[files]]
+file = "mods/corpse-neoforge-1.21.1-1.1.22.pw.toml"
+hash = "3cf95318e1e09146d9bdf4cb37769b6ccddf9ffbc6bf472112a22db9632f9188"
 metafile = true
 
 [[files]]
@@ -2071,6 +2086,11 @@ hash = "fce55a3efd5f360bb2ebc1fcf3059160872f44d65212aa5bbfbf3e709b2648ab"
 metafile = true
 
 [[files]]
+file = "mods/moonlight-1.21.1-3.8.3-neoforge.pw.toml"
+hash = "8dc4b2436b8989ffe4bb164cce4c055c5ff2b5085c6ab53caa5ca134b41c14d0"
+metafile = true
+
+[[files]]
 file = "mods/mowziesmobs-1.21.1-1.8.2.pw.toml"
 hash = "e1c2f36cdc9a6403587e41a88d9e34b1b555622efd8e86ea0ce33fd02ad43eb8"
 metafile = true
@@ -2158,6 +2178,11 @@ metafile = true
 [[files]]
 file = "mods/ssrd-1.8.8-1.21.1.pw.toml"
 hash = "c2993db3864c0f20ac0aea95b65ec392bde4b34e62c030e6666e262e6c8f2eb5"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries-1.21.1-4.0.2-neoforge.pw.toml"
+hash = "a4b52c36c79666769d2cdfe5f3abfb48375771d2c5bb20566f03c7d2c2a9fdad"
 metafile = true
 
 [[files]]
