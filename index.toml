@@ -2086,6 +2086,11 @@ hash = "2ca50fc0ff05ac060c45f2a58a477e34e9a081729498052f419d1e48a6f881f3"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims-neoforge-1.21.1-0.33.0.pw.toml"
+hash = "4d77dda9e16b1ba8d90ca8b807908a6a795b04f6319a18ec82b5777bc7532d72"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-1.21.1-93-neoforge.pw.toml"
 hash = "b287b321605b8e1be062a71006e980e295619f10b2a3003f48bfa76811641e67"
 metafile = true
@@ -2178,6 +2183,11 @@ metafile = true
 [[files]]
 file = "mods/xaerominimap-neoforge-1.21.1-26.6.0.pw.toml"
 hash = "e872acb03de07fbc29c707681119436f1f8cdf03e2c1d770ea180d87d88a3c0f"
+metafile = true
+
+[[files]]
+file = "mods/xaeroworldmap-neoforge-1.21.1-1.47.0.pw.toml"
+hash = "e00911d6959694b8e4d75cfaaaeb5b9deed8077a1b15ba9e314c5a1fd60fb345"
 metafile = true
 
 [[files]]
