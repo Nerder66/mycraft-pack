@@ -1951,6 +1951,11 @@ hash = "9ae54b780c53143ce76fc3b40db4d7fa2226851f1b1200c6e9cc450003bae798"
 metafile = true
 
 [[files]]
+file = "mods/cbc_equally_opposite-0.1.3.pw.toml"
+hash = "9a6b70e2a90593af6c36d9e8a794c50f9a9f163f965e67c92fe91251c9468223"
+metafile = true
+
+[[files]]
 file = "mods/create-1.21.1-6.0.10.pw.toml"
 hash = "90668bf0969987baf3479e4881e461df6507730e7bcca10a6a7cafe06cd3bc7a"
 metafile = true
@@ -1963,6 +1968,16 @@ metafile = true
 [[files]]
 file = "mods/create-enchantment-industry-2.4.2.pw.toml"
 hash = "a3e949ee6331e9dd722df18439b961243fc45f8f8ba4507757ae3a665f9ec91a"
+metafile = true
+
+[[files]]
+file = "mods/create-gunsmithing-1.21.1-1.4.9.pw.toml"
+hash = "34fe4def74e61f19dc9c41f64b38a375569f3caa0047b4e768b9cee9d8c3289d"
+metafile = true
+
+[[files]]
+file = "mods/createbigcannons-5.11.7-mc.1.21.1.pw.toml"
+hash = "400ef4bfaa163c6ac9cebaca8be8543d425df06476f5ab2a2c87ae41eb43a7b2"
 metafile = true
 
 [[files]]
@@ -2066,6 +2081,11 @@ hash = "c1f9f9dc159b7b65f3115f7ee1069accad27befa93307bad6da36b77b8157baa"
 metafile = true
 
 [[files]]
+file = "mods/ntgl-1.21.1-3.2.0.pw.toml"
+hash = "2ca50fc0ff05ac060c45f2a58a477e34e9a081729498052f419d1e48a6f881f3"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-1.21.1-93-neoforge.pw.toml"
 hash = "b287b321605b8e1be062a71006e980e295619f10b2a3003f48bfa76811641e67"
 metafile = true
@@ -2083,6 +2103,11 @@ metafile = true
 [[files]]
 file = "mods/puffish_skills-0.19.2-1.21-neoforge.pw.toml"
 hash = "fbe4254ba90ee1ed1d67cefdaf3edfbcb1679de01567d92f234ba7ab88fb9603"
+metafile = true
+
+[[files]]
+file = "mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.pw.toml"
+hash = "30a303e4bc3b3ff162542571f7477f83f48b783998783a204159decf63120cfe"
 metafile = true
 
 [[files]]
