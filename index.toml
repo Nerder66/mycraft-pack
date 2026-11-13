@@ -2488,3 +2488,67 @@ file = "shaderpacks/complementaryreimagined_r5.9.3.pw.toml"
 hash = "ccfcdf2c44698881050605d905f1a6eac665dc5e86159ea8025994034b743678"
 metafile = true
 
+[[files]]
+file = "mods/born_in_chaos_[neoforge]_1.21.1_1.7.6.pw.toml"
+hash = "b4799ba659ca0b75a4faaf9fcaa52bc0a3c5e4fd296afcc477acf23182983753"
+metafile = true
+
+[[files]]
+file = "mods/copycats-3.0.11+mc.1.21.1-neoforge.pw.toml"
+hash = "c85de9d2177e18d0f007d19df5e170df6e53a6a565676b677153006f0b8d7c11"
+metafile = true
+
+[[files]]
+file = "mods/corgilib-neoforge-1.21.1-5.0.0.10.pw.toml"
+hash = "4e6824b537c33eed981e9e99ee7cda791a4e3f895ce8508acd56cba413e721b3"
+metafile = true
+
+[[files]]
+file = "mods/data_anchor-neoforge-1.21.1-2.0.0.18.pw.toml"
+hash = "1abaa8cab4540af2e60e0d4ae344164effcaad4a622dd5b91624f69ad82f2676"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker-neoforge-1.21.1-1.4.1.pw.toml"
+hash = "e241c968704901397235bf586b97630724d739fe8b3ef23dcd9ba3dc14f4ab6b"
+metafile = true
+
+[[files]]
+file = "mods/dungeonsarise-1.21.1-2.1.68-release.pw.toml"
+hash = "d4f8139d88e99fa62a13849aa96fe2cdf95758ea4998c44ac6309b3204f3f289"
+metafile = true
+
+[[files]]
+file = "mods/dungeonsarisesevenseas-1.21.x-1.0.4-neoforge.pw.toml"
+hash = "623dcb8b841b0cea7bcda95b84b0db288fb07ffd59572e198cfa7f2065a8fdb8"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-2-core-neoforge-1.21.1-2.0.3.4.pw.toml"
+hash = "f251851aee60467392b6c3b47ed5053e125ad3b781c450d49e799f1784d3ad5d"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-2-default-lunar-events-neoforge-1.21.1-2.0.1.4.pw.toml"
+hash = "f627b3362a92b830cc0d208d793afd57f64776a78295b8dad082d9bf0403eac3"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials-2-shaders-neoforge-1.21.1-2.0.0.4.pw.toml"
+hash = "9e0a5aa01e75ded1a43c71779be412e5d9bf675247b9cbd7810ad58d60b92386"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted-neoforge-1.21.1-4.0.3.pw.toml"
+hash = "262fddd60c485d97421c66ed9ca662bc6650801c3ee846de00f0c08b18205fce"
+metafile = true
+
+[[files]]
+file = "mods/mutantmonsters-v21.1.1-1.21.1-neoforge.pw.toml"
+hash = "fafac915fbbd344b5c5945f6c4ea05e24950b28762d9befe843b8fba297e92a7"
+metafile = true
+
+[[files]]
+file = "mods/resourcefullib-neoforge-1.21-3.0.12.pw.toml"
+hash = "ae77da156745f4a7911971ef0435c4a8be84665813f94b6bc7b327698bddea09"
+metafile = true

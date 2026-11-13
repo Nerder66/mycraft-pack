@@ -1,0 +1,13 @@
+name = "Enhanced-Celestials-2-Core-NeoForge-1.21.1-2.0.3.4"
+filename = "Enhanced-Celestials-2-Core-NeoForge-1.21.1-2.0.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ugCWUHV9/versions/b5tyRnjL/Enhanced-Celestials-2-Core-NeoForge-1.21.1-2.0.3.4.jar"
+hash-format = "sha1"
+hash = "ef7dbf1d3ea2fa4fa6133c2360bba5a1b20e51b8"
+
+[update]
+[update.modrinth]
+mod-id = "ugCWUHV9"
+version = "b5tyRnjL"
