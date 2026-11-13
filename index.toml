@@ -1931,7 +1931,7 @@ hash = "6979c988ceab84dfaca3aacb4c60cfe067987f6a323c8eaddb911ffa9a257219"
 
 [[files]]
 file = "config/spell_engine/hud_config.json"
-hash = "b3342d39bea6633b095b67dcb7d6fbccf07ea9ddd19116ea4ca2cd747861f318"
+hash = "5a3d856498f45762afdb10e0a01a1d2b5f3e8533fa5a3eadebd23e045d7832af"
 
 [[files]]
 file = "config/spell_engine/server.json5"
@@ -2732,3 +2732,6 @@ file = "shaderpacks/complementaryreimagined_r5.9.3.pw.toml"
 hash = "ccfcdf2c44698881050605d905f1a6eac665dc5e86159ea8025994034b743678"
 metafile = true
 
+[[files]]
+file = "config/enhancedcelestials2core/translations.json"
+hash = "e490ff1459f8672dc1bd291cd49749cda2c09cb8f99d1e4ce91d2dbd07c3f837"
