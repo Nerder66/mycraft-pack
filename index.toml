@@ -2878,3 +2878,23 @@ metafile = true
 file = "mods/configurable-3.5.3+1.21.1-neoforge.pw.toml"
 hash = "97497a7ad15755994ced5cb4ba79d7597d173783cef36fd91cd2bceeeeb9d82c"
 metafile = true
+
+[[files]]
+file = "mods/alexsmobs-2.3.0-neoforge+1.21.1.pw.toml"
+hash = "dbda34254c3664d6869b044581b06fda0991565030480795390f71efd22c9142"
+metafile = true
+
+[[files]]
+file = "mods/blueprint-1.21.1-8.2.0.pw.toml"
+hash = "71651d3214e6e16a02fadc319b5d69ba1b04027b84abbc45a1ecffc5be978085"
+metafile = true
+
+[[files]]
+file = "mods/codxlib-1.6.1-neoforge+1.21.1.pw.toml"
+hash = "b5764cf73476cf5dc36fd870253cd4c5e6909c92062d159a1ff0825179a72ab1"
+metafile = true
+
+[[files]]
+file = "mods/upgrade_aquatic-1.21.1-7.0.2.pw.toml"
+hash = "64ef344fd186ef54f96e394f9491e933f6828aeb7bd780aad1327964fc0387e6"
+metafile = true
