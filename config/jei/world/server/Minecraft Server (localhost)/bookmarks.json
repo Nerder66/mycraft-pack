@@ -1,5 +1,8 @@
 [
   {"version":2},
   {"ingredient":{"id":"farmersdelight:organic_compost"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:music_disc_otherside"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:music_disc_otherside"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:ender_pearl"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:arcanist_leggings","components":"{\"ars_nouveau:armor_perks\":{color:\"\",perkTags:{},perks:[],tier:1},\"minecraft:damage\":102,\"minecraft:enchantments\":{levels:{\"ars_nouveau:mana_regen\":2,\"minecraft:blast_protection\":2}},\"minecraft:repair_cost\":3}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:blank_thread"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -1823,7 +1823,7 @@ hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations-cache/en_us.json"
-hash = "9818ed8c4b68e6469acc27c17288cd99a7589ec4c8231bdd73b6427bf45042de"
+hash = "44798b1b7e29b2dc3da28cbc50416f2ac3140f86ea17155bc5554dbf9d3f4afc"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
@@ -1831,11 +1831,11 @@ hash = "e490ff1459f8672dc1bd291cd49749cda2c09cb8f99d1e4ce91d2dbd07c3f837"
 
 [[files]]
 file = "config/enhancedcelestials2defaultlunarevents/translations-cache/en_us.json"
-hash = "1c440df0ef2b1c3b97bac3587e8266c8c46547680d79aa92e1f9279a90bffdd3"
+hash = "6c72777fb9c908d0ce4a952c8cfbe800ef0392d09c722f3dad64ac276bd9f76c"
 
 [[files]]
 file = "config/enhancedcelestials2shaders/translations-cache/en_us.json"
-hash = "4d1f42e75cd41020bfe2b3e3fb44a5acfd6e30fcfddfaa00b84643e58ed404b9"
+hash = "b1a757eb6916bd255327f94106668c9e1782bee60f75693146d4b5d305cc1409"
 
 [[files]]
 file = "config/entityculling.json"
@@ -1857,6 +1857,10 @@ hash = "0cc639f1ce8ab5e63f754ab41be3ab09398fd149de6d0b5edc476034e3ed8b06"
 [[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
+
+[[files]]
+file = "config/firstperson.json"
+hash = "6d9d8a3708ccf453fb710f4e10591cedd4d1767acde97c7da7bbc2cd2c4d4101"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -1885,7 +1889,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "9df506c022a52818c14525a3450193da08faa81d3c4100fcb9ebbf84755d60f9"
+hash = "6fb748a5e5effb9f3c8edf8d8c2e1c38b93a0d2dcffab095817e7874e9466b1b"
 preserve = true
 
 [[files]]
@@ -1960,7 +1964,7 @@ preserve = true
 
 [[files]]
 file = "config/jei/world/server/Minecraft Server (localhost)/bookmarks.json"
-hash = "d39d0f5cae453507141f657ed9966a59b6f38b81a50b555fd611caf624816068"
+hash = "5bfc0e2b0c8023c6e6781c45f63ad7726ad644d77f7315b6f2382e31097159e7"
 preserve = true
 
 [[files]]
@@ -2095,8 +2099,12 @@ file = "config/mutantmonsters-server.toml"
 hash = "099b34550dd28478624388f54e6c6fafd1cc09a6a1eee8c97f1cdd6c859da757"
 
 [[files]]
-file = "config/neat-client.toml"
+file = "config/neat-client-1.toml.bak"
 hash = "0020e79c15657af18ac82aa5a3d798375e31f3c41db58ce792692b522dd56d0b"
+
+[[files]]
+file = "config/neat-client.toml"
+hash = "459047efbbdcd2fa09559744e3676b33dfa7bd676a2cc1e6bab2c7126c0993ff"
 preserve = true
 
 [[files]]
@@ -2177,6 +2185,10 @@ file = "config/not_enough_glyphs/glyph_trail.toml"
 hash = "409561147c4ddbfb65ed7143bc52aa609068c5ab5b7a5b5a9adf91c8e7671f3c"
 
 [[files]]
+file = "config/notenoughanimations.json"
+hash = "e90ad037b9a61cadd41e2fdb0e0d554e81169413615b652ec20e5e71e072533c"
+
+[[files]]
 file = "config/ntgl-client.toml"
 hash = "2cb3338fc8fbefcb960b8bf70303936501189d2fd585745bc5385ec31aff635c"
 preserve = true
@@ -2204,7 +2216,7 @@ preserve = true
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "a5228809c6d2bbc990a87de3c5f185c96f6c18fa3e663f90ee9aebc7031b47be"
+hash = "a06dabed4f2a63bd52e40fdd8c76b5831e4c399b9f4e4a4e6afc668a6c12e62d"
 
 [[files]]
 file = "config/paladins/effects.json"
@@ -2308,6 +2320,11 @@ hash = "230fb11ff516749c8b60ebc9e8db79810e501d3cd48e8a2656c2f87ac5bfd79c"
 [[files]]
 file = "config/sauce-startup.toml"
 hash = "8d3b81bd9c12cefce965196bc430d22e9b90733f1bca7acec3734f3d52eb49c1"
+
+[[files]]
+file = "config/shouldersurfing-client.toml"
+hash = "0da97b63fc674a54d15153278f1f017ee47b10055d7d58a877ba8d137aea34a1"
+preserve = true
 
 [[files]]
 file = "config/simplyswords/compatibility.toml"
@@ -3054,6 +3071,10 @@ hash = "fafac915fbbd344b5c5945f6c4ea05e24950b28762d9befe843b8fba297e92a7"
 metafile = true
 
 [[files]]
+file = "mods/mycraftimbue-1.0.0.jar"
+hash = "de6c247499ea0c8aa29a7647c44a07d46eec42b7b9fc145ef1aa61fd24615dda"
+
+[[files]]
 file = "mods/mycraftkeys-1.0.0.jar"
 hash = "fbb504ce0771c1c8c96a36d086a80db155d439edc31dc4276baaf30a9a604008"
 
@@ -3372,7 +3393,3 @@ file = "shaderpacks/complementaryreimagined_r5.9.3.pw.toml"
 hash = "ccfcdf2c44698881050605d905f1a6eac665dc5e86159ea8025994034b743678"
 metafile = true
 
-
-[[files]]
-file = "mods/mycraftimbue-1.0.0.jar"
-hash = "de6c247499ea0c8aa29a7647c44a07d46eec42b7b9fc145ef1aa61fd24615dda"

@@ -1,0 +1,3 @@
+[general]
+	#Whether bars on bosses should be shown
+	display_on_bosses = false
