@@ -1669,7 +1669,7 @@ hash = "dce9b819f6078583fe575c1f465b0c1bcda44e64edb02d367728512adf65fafe"
 
 [[files]]
 file = "config/mowziesmobs-client.toml"
-hash = "06947297f3c51ce24601dca44f19e89bc2aac5c0aadc2cb40eb30ade4f2194c5"
+hash = "7c321532801cbdef2ccf75d08ae14f9e84e5911fed54af102c95b4a8252807e4"
 preserve = true
 
 [[files]]
