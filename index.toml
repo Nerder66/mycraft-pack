@@ -3393,3 +3393,8 @@ file = "shaderpacks/complementaryreimagined_r5.9.3.pw.toml"
 hash = "ccfcdf2c44698881050605d905f1a6eac665dc5e86159ea8025994034b743678"
 metafile = true
 
+
+[[files]]
+file = "mods/aeroworks-1.5.0.pw.toml"
+hash = "ba6d3507877882e21e1d9df651815f601b0cde23b7a9d64ed54b14efcf09d7ed"
+metafile = true
