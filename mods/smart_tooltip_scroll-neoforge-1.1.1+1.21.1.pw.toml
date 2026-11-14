@@ -1,0 +1,13 @@
+name = "smart_tooltip_scroll-neoforge-1.1.1+1.21.1"
+filename = "smart_tooltip_scroll-neoforge-1.1.1+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZdbrmhGV/versions/5yxY9Gl4/smart_tooltip_scroll-neoforge-1.1.1%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "6aa510e69d0aeb4df759b52f7fc5c33171c1adeb"
+
+[update]
+[update.modrinth]
+mod-id = "ZdbrmhGV"
+version = "5yxY9Gl4"

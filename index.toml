@@ -2735,3 +2735,52 @@ metafile = true
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
 hash = "e490ff1459f8672dc1bd291cd49749cda2c09cb8f99d1e4ce91d2dbd07c3f837"
+
+[[files]]
+file = "mods/clumps-neoforge-1.21.1-19.0.0.1.pw.toml"
+hash = "e4837e3f5a418a0ffad3f4cc0535dd1f43adaed7be6cf4d49653ade571c4e1aa"
+metafile = true
+
+[[files]]
+file = "mods/controlling-neoforge-1.21.1-19.0.5.pw.toml"
+hash = "fdf71f0250cf2c2a98a9304f896ac76440bae43a9587556eb882dd0081be0377"
+metafile = true
+
+[[files]]
+file = "mods/entityculling-neoforge-1.12.1-mc1.21.1.pw.toml"
+hash = "fcaecb2308d177849a619e2ec90a4f102c2b4efdbdb54ee74d36b4978b307c6e"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast-neoforge-1.6.15+1.21.1.pw.toml"
+hash = "3b12b0628947caf40c904fe12923eea8036027233d53ac617fa93159e65571a5"
+metafile = true
+
+[[files]]
+file = "mods/lithium-neoforge-0.15.4+mc1.21.1.pw.toml"
+hash = "5fb146c29011083464b9b8570aca4ccff39d19d69cd0c2ba28a17062bc16e501"
+metafile = true
+
+[[files]]
+file = "mods/mycraftkeys-1.0.0.jar"
+hash = "fbb504ce0771c1c8c96a36d086a80db155d439edc31dc4276baaf30a9a604008"
+
+[[files]]
+file = "mods/s-lib-neoforge-3.0.1+1.21.1.pw.toml"
+hash = "56ad1782727efc6261094c7fd464bf51bd733aac9b7d19601192bb32078ec0f0"
+metafile = true
+
+[[files]]
+file = "mods/searchables-neoforge-1.21.1-1.0.2.pw.toml"
+hash = "d3c448b6754c2a4591c66d73df7c20fe4eded51241c51fb33abc741bdc2a9477"
+metafile = true
+
+[[files]]
+file = "mods/smart_tooltip_scroll-neoforge-1.1.1+1.21.1.pw.toml"
+hash = "4a122d3dff0b43249f3cfd11f400f482fe680f14af1a2bb6f345f030828604ec"
+metafile = true
+
+[[files]]
+file = "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.pw.toml"
+hash = "70550812f34588aa84b6500368cc3e681174106e3331683cc257c7ba5fa65711"
+metafile = true
