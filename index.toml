@@ -2099,6 +2099,11 @@ file = "config/mycraftkeys-applied-v1.txt"
 hash = "6eb1be593e9327098e8caa2e5d720aab57032b7a957ab56bfbb37e9a7241b99c"
 
 [[files]]
+file = "config/neat-client.toml"
+hash = "0020e79c15657af18ac82aa5a3d798375e31f3c41db58ce792692b522dd56d0b"
+preserve = true
+
+[[files]]
 file = "config/neoforge-client.toml"
 hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
 preserve = true
@@ -3057,6 +3062,11 @@ file = "mods/mycraftkeys-1.0.0.jar"
 hash = "fbb504ce0771c1c8c96a36d086a80db155d439edc31dc4276baaf30a9a604008"
 
 [[files]]
+file = "mods/neat-1.21-47-neoforge.pw.toml"
+hash = "c34181c504c75a795193c97863af0a0410829765a9f4bb256892b05c047fe35b"
+metafile = true
+
+[[files]]
 file = "mods/neruina-3.3.5+1.21.1-neoforge.pw.toml"
 hash = "4706ff8a9d6eea7a4f2f699a2952c6a23cc595d92127ee59efa69d68cedefc80"
 metafile = true
@@ -3079,6 +3089,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims-neoforge-1.21.1-0.33.0.pw.toml"
 hash = "4d77dda9e16b1ba8d90ca8b807908a6a795b04f6319a18ec82b5777bc7532d72"
+metafile = true
+
+[[files]]
+file = "mods/oracle_index-neoforge-1.4.1.pw.toml"
+hash = "d368068d0a59bd698ceee756e683f041a3ebec0bce63b8a32a280ea08ec1f84b"
 metafile = true
 
 [[files]]
@@ -3361,18 +3376,3 @@ file = "shaderpacks/complementaryreimagined_r5.9.3.pw.toml"
 hash = "ccfcdf2c44698881050605d905f1a6eac665dc5e86159ea8025994034b743678"
 metafile = true
 
-
-[[files]]
-file = "mods/neat-1.21-47-neoforge.pw.toml"
-hash = "c34181c504c75a795193c97863af0a0410829765a9f4bb256892b05c047fe35b"
-metafile = true
-
-[[files]]
-file = "mods/oracle_index-neoforge-1.4.1.pw.toml"
-hash = "d368068d0a59bd698ceee756e683f041a3ebec0bce63b8a32a280ea08ec1f84b"
-metafile = true
-
-[[files]]
-file = "config/neat-client.toml"
-hash = "0020e79c15657af18ac82aa5a3d798375e31f3c41db58ce792692b522dd56d0b"
-preserve = true
