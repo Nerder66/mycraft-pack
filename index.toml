@@ -1678,7 +1678,7 @@ hash = "0bb285aebae71e1711258b0e80c49e9e23ea68b9c86386d192f2c9274aceff1e"
 
 [[files]]
 file = "config/mutantmonsters-common.toml"
-hash = "73df4c62f9a6d5bb34a2fc7c5b772afa6ce5507587af5af308948112373efba6"
+hash = "ae22eddc979232294007fdccb605ccb7ce3f03d70f6686617ff24993b0169032"
 
 [[files]]
 file = "config/mycraftkeys-applied-v1.txt"
@@ -2862,4 +2862,19 @@ metafile = true
 [[files]]
 file = "mods/friendsandfoes-neoforge-5.0.4+mc1.21.1.pw.toml"
 hash = "95a9f289ac1328bb9c72472f57a2d6416abe3bee81833d3303a756131e969358"
+metafile = true
+
+[[files]]
+file = "mods/packetfixer-3.3.1-1.20.5-1.21.x-merged.pw.toml"
+hash = "e00471a83a3b55f032c76074dd45474a98c85c6ae68570707727aa039f26705c"
+metafile = true
+
+[[files]]
+file = "mods/neruina-3.3.5+1.21.1-neoforge.pw.toml"
+hash = "4706ff8a9d6eea7a4f2f699a2952c6a23cc595d92127ee59efa69d68cedefc80"
+metafile = true
+
+[[files]]
+file = "mods/configurable-3.5.3+1.21.1-neoforge.pw.toml"
+hash = "97497a7ad15755994ced5cb4ba79d7597d173783cef36fd91cd2bceeeeb9d82c"
 metafile = true
