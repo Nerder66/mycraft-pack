@@ -1,0 +1,8 @@
+MyCraft keybind layout applied.
+Delete this file to apply it again (only keys still on their old default get changed).
+
+Changed:
+
+
+Left alone (you set these yourself):
+
