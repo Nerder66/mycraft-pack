@@ -1,0 +1,13 @@
+name = "firstperson-neoforge-2.7.3-mc1.21.1"
+filename = "firstperson-neoforge-2.7.3-mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/H5XMjpHi/versions/eaj8cYpD/firstperson-neoforge-2.7.3-mc1.21.1.jar"
+hash-format = "sha1"
+hash = "6e0be1de6a5aab6cda8496984376a0114cf5a840"
+
+[update]
+[update.modrinth]
+mod-id = "H5XMjpHi"
+version = "eaj8cYpD"

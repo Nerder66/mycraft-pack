@@ -2898,3 +2898,18 @@ metafile = true
 file = "mods/upgrade_aquatic-1.21.1-7.0.2.pw.toml"
 hash = "64ef344fd186ef54f96e394f9491e933f6828aeb7bd780aad1327964fc0387e6"
 metafile = true
+
+[[files]]
+file = "mods/firstperson-neoforge-2.7.3-mc1.21.1.pw.toml"
+hash = "8258d6a873f37b7fc7c4f21b2c8bd7a97b3f41d386d4c8a548d2ad191fe1c1d5"
+metafile = true
+
+[[files]]
+file = "mods/notenoughanimations-neoforge-1.12.7-mc1.21.1.pw.toml"
+hash = "e7ee259a7da5ea5c475e438f2d3424f17bc049c7a7bbd51b5c4635e08dbbf21a"
+metafile = true
+
+[[files]]
+file = "mods/shouldersurfing-neoforge-1.21.1-5.3.1.pw.toml"
+hash = "55916a96aeb719678b4fb024dcb67290f70060ec58891c5fb83f069d75376218"
+metafile = true

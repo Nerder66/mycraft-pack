@@ -1,0 +1,13 @@
+name = "ShoulderSurfing-NeoForge-1.21.1-5.3.1"
+filename = "ShoulderSurfing-NeoForge-1.21.1-5.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kepjj2sy/versions/ESA9aXtk/ShoulderSurfing-NeoForge-1.21.1-5.3.1.jar"
+hash-format = "sha1"
+hash = "96d958fbd14713a3e50905b64d59d9fe31a26c63"
+
+[update]
+[update.modrinth]
+mod-id = "kepjj2sy"
+version = "ESA9aXtk"
