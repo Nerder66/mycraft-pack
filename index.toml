@@ -3361,3 +3361,18 @@ file = "shaderpacks/complementaryreimagined_r5.9.3.pw.toml"
 hash = "ccfcdf2c44698881050605d905f1a6eac665dc5e86159ea8025994034b743678"
 metafile = true
 
+
+[[files]]
+file = "mods/neat-1.21-47-neoforge.pw.toml"
+hash = "c34181c504c75a795193c97863af0a0410829765a9f4bb256892b05c047fe35b"
+metafile = true
+
+[[files]]
+file = "mods/oracle_index-neoforge-1.4.1.pw.toml"
+hash = "d368068d0a59bd698ceee756e683f041a3ebec0bce63b8a32a280ea08ec1f84b"
+metafile = true
+
+[[files]]
+file = "config/neat-client.toml"
+hash = "0020e79c15657af18ac82aa5a3d798375e31f3c41db58ce792692b522dd56d0b"
+preserve = true
