@@ -2095,10 +2095,6 @@ file = "config/mutantmonsters-server.toml"
 hash = "099b34550dd28478624388f54e6c6fafd1cc09a6a1eee8c97f1cdd6c859da757"
 
 [[files]]
-file = "config/mycraftkeys-applied-v1.txt"
-hash = "6eb1be593e9327098e8caa2e5d720aab57032b7a957ab56bfbb37e9a7241b99c"
-
-[[files]]
 file = "config/neat-client.toml"
 hash = "0020e79c15657af18ac82aa5a3d798375e31f3c41db58ce792692b522dd56d0b"
 preserve = true
@@ -3376,3 +3372,7 @@ file = "shaderpacks/complementaryreimagined_r5.9.3.pw.toml"
 hash = "ccfcdf2c44698881050605d905f1a6eac665dc5e86159ea8025994034b743678"
 metafile = true
 
+
+[[files]]
+file = "mods/mycraftimbue-1.0.0.jar"
+hash = "de6c247499ea0c8aa29a7647c44a07d46eec42b7b9fc145ef1aa61fd24615dda"
