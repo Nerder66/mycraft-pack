@@ -3408,3 +3408,8 @@ metafile = true
 file = "mods/continuityneoforge-3.0.11+1.21.1.pw.toml"
 hash = "e6bc8540e89e53b619a3419679e2ce3d903cbfbe46bde36bbf9652e4fff987c3"
 metafile = true
+
+[[files]]
+file = "mods/euphoriapatcher-1.10.5-r5.9.3-neoforge.pw.toml"
+hash = "a141552cd69a3f953e0c7be4e9cb4b4dd0aa45bc5e6b09142ebf94184c905f45"
+metafile = true
