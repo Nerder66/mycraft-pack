@@ -3398,3 +3398,8 @@ metafile = true
 file = "mods/aeroworks-1.5.0.pw.toml"
 hash = "ba6d3507877882e21e1d9df651815f601b0cde23b7a9d64ed54b14efcf09d7ed"
 metafile = true
+
+[[files]]
+file = "mods/particlerain-4.0.3+1.21.1-neoforge.pw.toml"
+hash = "b6be324f568836028071eb44af75f1b370ac92e10aa1fd7adc3cc85e0554a128"
+metafile = true
