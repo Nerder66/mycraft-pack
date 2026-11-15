@@ -3403,3 +3403,8 @@ metafile = true
 file = "mods/particlerain-4.0.3+1.21.1-neoforge.pw.toml"
 hash = "b6be324f568836028071eb44af75f1b370ac92e10aa1fd7adc3cc85e0554a128"
 metafile = true
+
+[[files]]
+file = "mods/continuityneoforge-3.0.11+1.21.1.pw.toml"
+hash = "e6bc8540e89e53b619a3419679e2ce3d903cbfbe46bde36bbf9652e4fff987c3"
+metafile = true
