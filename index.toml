@@ -1914,7 +1914,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "dfc0a7b38e2a835ea7f58f337643e2d90e3f5523ca9cfcfe931572df88bc7d1c"
+hash = "478962c00191ab5bbd2a362368ce37a8af0b40d26e38a0a0983648a5cc787be1"
 preserve = true
 
 [[files]]
@@ -2241,7 +2241,7 @@ preserve = true
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "91893a5bdc5cb46266aea5d1a48a7ad16b6002a500f364bd9927620a7487e1e4"
+hash = "05a2e11905fd5a09ea57737d6c6269a01c89f807086ce030d7764231a0f5a30e"
 
 [[files]]
 file = "config/paladins/effects.json"
