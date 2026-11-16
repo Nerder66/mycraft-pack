@@ -2,12 +2,16 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "615f564c020724984cbc1aff8aab25e085b20d4744dee0e81c954ae2e994f781"
+hash = "1867885921475842662a2e480e6c252ac5e9001ae9e6013675b48c0056c0eca0"
 preserve = true
 
 [[files]]
 file = "config/DistantHorizons.toml.bak-before-lowload"
 hash = "eeee4fbbc86ddd148febdfa118afc2ebbbd33f4e3a7f1ec50f387edc914f808c"
+
+[[files]]
+file = "config/DistantHorizons.toml.bak-memory"
+hash = "615f564c020724984cbc1aff8aab25e085b20d4744dee0e81c954ae2e994f781"
 
 [[files]]
 file = "config/aeronauticadditions-common.toml"
@@ -16,6 +20,15 @@ hash = "b12cf45d04c4fcd1efd398f616343aab32569fd2bb7463da0ababb146356b3a1"
 [[files]]
 file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
+
+[[files]]
+file = "config/aeroworks-client.toml"
+hash = "628087ba57e5d8428a316f39a43d521fdae4b676a37aed81eedca9a91239db4a"
+preserve = true
+
+[[files]]
+file = "config/aeroworks-common.toml"
+hash = "0510d990fdac82c113adff0055c3a3a5bb318a1a0d70d637dbbbe2f955261600"
 
 [[files]]
 file = "config/alexsmobs/alligator_snapping_turtle_spawns.json"
@@ -1708,6 +1721,10 @@ file = "config/comforts-server.toml"
 hash = "f6df47d3f1002fde8d9e59c8068acbc39e976b3392e8fd528dc9b38b2856c5a0"
 
 [[files]]
+file = "config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
 file = "config/copycats-client.toml"
 hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
 preserve = true
@@ -1823,7 +1840,7 @@ hash = "36b0d118a1924aa3f2436fa16cc46a366c9a7f138765ae86caec05977be98bd5"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations-cache/en_us.json"
-hash = "44798b1b7e29b2dc3da28cbc50416f2ac3140f86ea17155bc5554dbf9d3f4afc"
+hash = "157c004c6a9df98577a7bc6fc717f250cceb0f1c6dacafc821cc0f8cb8d9da53"
 
 [[files]]
 file = "config/enhancedcelestials2core/translations.json"
@@ -1831,15 +1848,23 @@ hash = "e490ff1459f8672dc1bd291cd49749cda2c09cb8f99d1e4ce91d2dbd07c3f837"
 
 [[files]]
 file = "config/enhancedcelestials2defaultlunarevents/translations-cache/en_us.json"
-hash = "6c72777fb9c908d0ce4a952c8cfbe800ef0392d09c722f3dad64ac276bd9f76c"
+hash = "d61bce635e7935558641bd92e08eb2de63690a53eb0e3b6c2eed9f8a21734571"
 
 [[files]]
 file = "config/enhancedcelestials2shaders/translations-cache/en_us.json"
-hash = "b1a757eb6916bd255327f94106668c9e1782bee60f75693146d4b5d305cc1409"
+hash = "5ff11d8a0c3d128f2809a6eaa2e09ecf38ade65676965992d549e9088ac79b54"
 
 [[files]]
 file = "config/entityculling.json"
 hash = "4a6d510b7e0157027b1cf2022184567fd5387aa09d08db108cb0369ba371ddbe"
+
+[[files]]
+file = "config/euphoria_patcher/.data.json"
+hash = "2473b108931b86456bc827f6c1765cc30ed290297c838331b9e217889de687a1"
+
+[[files]]
+file = "config/euphoria_patcher/settings.toml"
+hash = "13aee892d000bdd43d88178fbcaa96549f28ae4ae528e1f1eacaf791742f9ec6"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -1889,7 +1914,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "6fb748a5e5effb9f3c8edf8d8c2e1c38b93a0d2dcffab095817e7874e9466b1b"
+hash = "dfc0a7b38e2a835ea7f58f337643e2d90e3f5523ca9cfcfe931572df88bc7d1c"
 preserve = true
 
 [[files]]
@@ -1939,7 +1964,7 @@ preserve = true
 
 [[files]]
 file = "config/jei/client/ingredient-list-mod-sort-order.ini"
-hash = "5e427264fa46cc76c3fc8d5d4767d80ae7354c78d8ea7b0f858a259f3761d356"
+hash = "8d1b445519aeed8be648a4b0c723135abd675f67461f5b6910c2cb18c6ba2291"
 preserve = true
 
 [[files]]
@@ -2216,7 +2241,7 @@ preserve = true
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "a06dabed4f2a63bd52e40fdd8c76b5831e4c399b9f4e4a4e6afc668a6c12e62d"
+hash = "91893a5bdc5cb46266aea5d1a48a7ad16b6002a500f364bd9927620a7487e1e4"
 
 [[files]]
 file = "config/paladins/effects.json"
@@ -2241,6 +2266,10 @@ hash = "1f6f35489bc3b5df6476bd59a50d82919e393fa6b43715afb9d3428b0aacf780"
 [[files]]
 file = "config/paladins/villages.json"
 hash = "1f055f8cdc62d4035fecc05af7a1b6398ff0f9efdacc4422c4e58d8ec0a253bb"
+
+[[files]]
+file = "config/particlerain/config.json"
+hash = "f1c49e7af4604001394994b16139cff2523f95539830f3ba9464c198e404456c"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -2668,6 +2697,11 @@ hash = "50f8118a98c59ec5c1b4d3457b1afa91e7c4e0f2a0a47809dc1c0855fe17da87"
 metafile = true
 
 [[files]]
+file = "mods/aeroworks-1.5.0.pw.toml"
+hash = "2ad37789441073aa1827d20398b942950ac8aadc5e4e681b869a70a4aa6b473e"
+metafile = true
+
+[[files]]
 file = "mods/alexsmobs-2.3.0-neoforge+1.21.1.pw.toml"
 hash = "dbda34254c3664d6869b044581b06fda0991565030480795390f71efd22c9142"
 metafile = true
@@ -2821,6 +2855,11 @@ hash = "97497a7ad15755994ced5cb4ba79d7597d173783cef36fd91cd2bceeeeb9d82c"
 metafile = true
 
 [[files]]
+file = "mods/continuityneoforge-3.0.11+1.21.1.pw.toml"
+hash = "3d4194131494ed3ce073c0bb1499bf5aa772ebf4ec371d2b198d97629849409f"
+metafile = true
+
+[[files]]
 file = "mods/controlling-neoforge-1.21.1-19.0.5.pw.toml"
 hash = "fdf71f0250cf2c2a98a9304f896ac76440bae43a9587556eb882dd0081be0377"
 metafile = true
@@ -2943,6 +2982,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling-neoforge-1.12.1-mc1.21.1.pw.toml"
 hash = "fcaecb2308d177849a619e2ec90a4f102c2b4efdbdb54ee74d36b4978b307c6e"
+metafile = true
+
+[[files]]
+file = "mods/euphoriapatcher-1.10.5-r5.9.3-neoforge.pw.toml"
+hash = "8c1344d3f3d4ee0bdecc90df3bd4577defc37cc68833e54db9cc2012f7abeaf8"
 metafile = true
 
 [[files]]
@@ -3079,6 +3123,10 @@ file = "mods/mycraftkeys-1.0.0.jar"
 hash = "fbb504ce0771c1c8c96a36d086a80db155d439edc31dc4276baaf30a9a604008"
 
 [[files]]
+file = "mods/mycrafttiermagic-1.0.0.jar"
+hash = "90d67f05c9148564b9b3381cb64b5986867bb0f5c6c161c0bb4b357d32a60076"
+
+[[files]]
 file = "mods/neat-1.21-47-neoforge.pw.toml"
 hash = "c34181c504c75a795193c97863af0a0410829765a9f4bb256892b05c047fe35b"
 metafile = true
@@ -3126,6 +3174,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-neoforge-3.1.3+1.21.1.pw.toml"
 hash = "f20b0e93aba6e2a27cdd0ba27b6b3312f3ecb5a251767197fe8565f892cab8cf"
+metafile = true
+
+[[files]]
+file = "mods/particlerain-4.0.3+1.21.1-neoforge.pw.toml"
+hash = "55b720e60efe7b05e320d5b1c0e5c12867d1717e6a870109fa3d2201f34fd0a8"
 metafile = true
 
 [[files]]
@@ -3393,27 +3446,3 @@ file = "shaderpacks/complementaryreimagined_r5.9.3.pw.toml"
 hash = "ccfcdf2c44698881050605d905f1a6eac665dc5e86159ea8025994034b743678"
 metafile = true
 
-
-[[files]]
-file = "mods/aeroworks-1.5.0.pw.toml"
-hash = "ba6d3507877882e21e1d9df651815f601b0cde23b7a9d64ed54b14efcf09d7ed"
-metafile = true
-
-[[files]]
-file = "mods/particlerain-4.0.3+1.21.1-neoforge.pw.toml"
-hash = "b6be324f568836028071eb44af75f1b370ac92e10aa1fd7adc3cc85e0554a128"
-metafile = true
-
-[[files]]
-file = "mods/continuityneoforge-3.0.11+1.21.1.pw.toml"
-hash = "e6bc8540e89e53b619a3419679e2ce3d903cbfbe46bde36bbf9652e4fff987c3"
-metafile = true
-
-[[files]]
-file = "mods/euphoriapatcher-1.10.5-r5.9.3-neoforge.pw.toml"
-hash = "a141552cd69a3f953e0c7be4e9cb4b4dd0aa45bc5e6b09142ebf94184c905f45"
-metafile = true
-
-[[files]]
-file = "mods/mycrafttiermagic-1.0.0.jar"
-hash = "90d67f05c9148564b9b3381cb64b5986867bb0f5c6c161c0bb4b357d32a60076"
