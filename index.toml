@@ -3413,3 +3413,7 @@ metafile = true
 file = "mods/euphoriapatcher-1.10.5-r5.9.3-neoforge.pw.toml"
 hash = "a141552cd69a3f953e0c7be4e9cb4b4dd0aa45bc5e6b09142ebf94184c905f45"
 metafile = true
+
+[[files]]
+file = "mods/mycrafttiermagic-1.0.0.jar"
+hash = "90d67f05c9148564b9b3381cb64b5986867bb0f5c6c161c0bb4b357d32a60076"
