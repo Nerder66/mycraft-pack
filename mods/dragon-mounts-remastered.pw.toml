@@ -1,0 +1,13 @@
+name = "Dragon Mounts: Remastered"
+filename = "Dragon Mounts Remastered-1.21.1-1.9.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DUx05jFK/versions/k5zQJ1Hr/Dragon%20Mounts%20Remastered-1.21.1-1.9.2.jar"
+hash-format = "sha1"
+hash = "261c87d7fb0888622b26a27f54da039f01b25c06"
+
+[update]
+[update.modrinth]
+mod-id = "DUx05jFK"
+version = "k5zQJ1Hr"
