@@ -1,0 +1,13 @@
+name = "guardvillagers-2.4.12-1.21.1"
+filename = "guardvillagers-2.4.12-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H1sntfo8/versions/JyXugpy2/guardvillagers-2.4.12-1.21.1.jar"
+hash-format = "sha1"
+hash = "a817f2263e93aad5bdbe65eeafd2f27489b47ccf"
+
+[update]
+[update.modrinth]
+mod-id = "H1sntfo8"
+version = "JyXugpy2"
