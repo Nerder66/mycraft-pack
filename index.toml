@@ -3005,11 +3005,6 @@ hash = "8a5f6ae962f421fdbe4618746e60deb6d5f36b230e46c3363ef08c661104dde1"
 metafile = true
 
 [[files]]
-file = "mods/firstperson-neoforge-2.7.3-mc1.21.1.pw.toml"
-hash = "8258d6a873f37b7fc7c4f21b2c8bd7a97b3f41d386d4c8a548d2ad191fe1c1d5"
-metafile = true
-
-[[files]]
 file = "mods/friendsandfoes-neoforge-5.0.4+mc1.21.1.pw.toml"
 hash = "95a9f289ac1328bb9c72472f57a2d6416abe3bee81833d3303a756131e969358"
 metafile = true
