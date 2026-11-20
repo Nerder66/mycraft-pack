@@ -3465,5 +3465,5 @@ hash = "0fcfa928d15bf0e54555eb20be6b270ba045873fc962ac82d948b4b9e5f83c40"
 metafile = true
 
 [[files]]
-file = "mods/mycraftdragons-1.0.0.jar"
-hash = "7283e06afdf5128a343340fdc48d4a7b010cc90efd6378600ba545c52b097f24"
+file = "mods/mycraftdragons-1.0.1.jar"
+hash = "cd9435c8b9b69892adbbe305a034ec8f593ee5b538e0458ba382fb65d6ecf6bc"
