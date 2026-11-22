@@ -3133,8 +3133,8 @@ file = "mods/mycraftimbue-1.0.0.jar"
 hash = "de6c247499ea0c8aa29a7647c44a07d46eec42b7b9fc145ef1aa61fd24615dda"
 
 [[files]]
-file = "mods/mycraftkeys-1.0.0.jar"
-hash = "fbb504ce0771c1c8c96a36d086a80db155d439edc31dc4276baaf30a9a604008"
+file = "mods/mycraftkeys-1.1.0.jar"
+hash = "4edf7575a280e759a6c4f67b7dd68ce47f72d262e839665dd4979f6d0859817b"
 
 [[files]]
 file = "mods/mycraftskyislands-1.4.1.jar"
