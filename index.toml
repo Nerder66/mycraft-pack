@@ -3125,8 +3125,8 @@ hash = "fafac915fbbd344b5c5945f6c4ea05e24950b28762d9befe843b8fba297e92a7"
 metafile = true
 
 [[files]]
-file = "mods/mycraftbiomebalance-1.1.0.jar"
-hash = "e36a131779d934f0cc10229f201fa41f52a8db9761ca14a6b0264499bc4e8896"
+file = "mods/mycraftbiomebalance-1.2.0.jar"
+hash = "ac05141d96eeeab9b1e0a1af90c91e796e103c9cb3c7ae52da8db3ca209efa3e"
 
 [[files]]
 file = "mods/mycraftimbue-1.0.0.jar"
@@ -3137,8 +3137,8 @@ file = "mods/mycraftkeys-1.0.0.jar"
 hash = "fbb504ce0771c1c8c96a36d086a80db155d439edc31dc4276baaf30a9a604008"
 
 [[files]]
-file = "mods/mycraftskyislands-1.2.0.jar"
-hash = "dd447292ad301bf4a7480cdcc9e30801ac4c4c9bb2b5161d3154021861bdf311"
+file = "mods/mycraftskyislands-1.3.0.jar"
+hash = "0b7e8495f5a7c66fa7791c20dbbfc6a098346799374f898eb94918e16dc78c87"
 
 [[files]]
 file = "mods/neat-1.21-47-neoforge.pw.toml"
