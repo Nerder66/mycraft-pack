@@ -3137,8 +3137,8 @@ file = "mods/mycraftkeys-1.2.1.jar"
 hash = "c2eb898114d30b8d56ca0dee75a00d5b81915ade079b3a042f85341050b5367d"
 
 [[files]]
-file = "mods/mycraftskyislands-1.5.0.jar"
-hash = "f6fef22468ea3f94133150da8764355dcbeecc050b3a053fbb2610172e78e4db"
+file = "mods/mycraftskyislands-1.5.1.jar"
+hash = "e4d34ba3a8d998c9556024ebf3fc97dc2f79ff8c5215bd2f2c9d679ba2b38c08"
 
 [[files]]
 file = "mods/neat-1.21-47-neoforge.pw.toml"
