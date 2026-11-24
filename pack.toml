@@ -1,12 +1,12 @@
 name = "MyCraft"
 author = "Darius"
-version = "2026.11.22-reset12"
+version = "2026.11.24-reset12a"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "40a174800446ec26a2bc8b6a01cdc084cbdda82b872fbb2f4572a192c92ebc8c"
+hash = "d46607d58ae7d6b651a025c315395eb910a1bf1424cc4ae56e1ef29f9c421082"
 
 [versions]
 minecraft = "1.21.1"

@@ -3125,8 +3125,8 @@ hash = "fafac915fbbd344b5c5945f6c4ea05e24950b28762d9befe843b8fba297e92a7"
 metafile = true
 
 [[files]]
-file = "mods/mycraftbiomebalance-1.4.1.jar"
-hash = "d01801dfa72c3f178e506b783938e0f7a99678066c3150851e639d23c5f781f4"
+file = "mods/mycraftbiomebalance-1.4.2.jar"
+hash = "7def3e0c544880578031a6689f8a068a299a8bd6358edf40465835466eea8907"
 
 [[files]]
 file = "mods/mycraftimbue-1.0.0.jar"
