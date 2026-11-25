@@ -3150,10 +3150,6 @@ file = "mods/mycraftskyislands-1.6.0.jar"
 hash = "4e8b5191f20a169b3192a7481475eaecf069d95cdfbcea522d435549ff05414e"
 
 [[files]]
-file = "mods/mycraftvfx-1.0.0.jar"
-hash = "3878cb767193ca730fa586087792ae66d6326d814967e5dd06a516b8d6473290"
-
-[[files]]
 file = "mods/neat-1.21-47-neoforge.pw.toml"
 hash = "c34181c504c75a795193c97863af0a0410829765a9f4bb256892b05c047fe35b"
 metafile = true
