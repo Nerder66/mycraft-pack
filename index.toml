@@ -2010,7 +2010,7 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "cda1de84880f439d9c8a025861a483d51972e76b8a5a6a253dd0196aec821ac5"
+hash = "d5cdbf28e513bee81e1c13db0000922dd0008778fa97021c2ed54de18b881545"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -2960,6 +2960,11 @@ hash = "023c5dd9a3ebf4491191cecb1421049c7b8c4d35744fa4cfee0cc5e80bca4c2d"
 metafile = true
 
 [[files]]
+file = "mods/dragon-mounts-remastered.pw.toml"
+hash = "0fcfa928d15bf0e54555eb20be6b270ba045873fc962ac82d948b4b9e5f83c40"
+metafile = true
+
+[[files]]
 file = "mods/dungeonsarise-1.21.1-2.1.68-release.pw.toml"
 hash = "6f06726f8e0f4b19edbd7b8bd7444be75ec8a90e422df5ee5d43e7479298354b"
 metafile = true
@@ -3129,6 +3134,10 @@ file = "mods/mycraftbiomebalance-1.4.3.jar"
 hash = "2f1091c247544899f1c7c9b30d238e6b2da23dc8638690963ea6e1f852488bc1"
 
 [[files]]
+file = "mods/mycraftdragons-1.0.1.jar"
+hash = "cd9435c8b9b69892adbbe305a034ec8f593ee5b538e0458ba382fb65d6ecf6bc"
+
+[[files]]
 file = "mods/mycraftimbue-1.0.0.jar"
 hash = "de6c247499ea0c8aa29a7647c44a07d46eec42b7b9fc145ef1aa61fd24615dda"
 
@@ -3139,6 +3148,10 @@ hash = "c2eb898114d30b8d56ca0dee75a00d5b81915ade079b3a042f85341050b5367d"
 [[files]]
 file = "mods/mycraftskyislands-1.6.0.jar"
 hash = "4e8b5191f20a169b3192a7481475eaecf069d95cdfbcea522d435549ff05414e"
+
+[[files]]
+file = "mods/mycraftvfx-1.0.0.jar"
+hash = "3878cb767193ca730fa586087792ae66d6326d814967e5dd06a516b8d6473290"
 
 [[files]]
 file = "mods/neat-1.21-47-neoforge.pw.toml"
@@ -3450,6 +3463,10 @@ hash = "8ac058e0daa257f288f653a925dfa6e25041ad52c6665c1b11b76bcce56e1c46"
 metafile = true
 
 [[files]]
+file = "shaderpacks/MyCraft-Soft-Shadows-1.0.zip"
+hash = "5b69d96b837c39d0300b10bd8372be7e6cff0b619cd0c1ace53af85a54154347"
+
+[[files]]
 file = "shaderpacks/bsl_v10.1.8.pw.toml"
 hash = "3b4612dbdddfbbc7a5ede03eda5624a5cabf64ede9141d3525911d5db9c964ca"
 metafile = true
@@ -3458,12 +3475,3 @@ metafile = true
 file = "shaderpacks/complementaryreimagined_r5.9.3.pw.toml"
 hash = "ccfcdf2c44698881050605d905f1a6eac665dc5e86159ea8025994034b743678"
 metafile = true
-
-[[files]]
-file = "mods/dragon-mounts-remastered.pw.toml"
-hash = "0fcfa928d15bf0e54555eb20be6b270ba045873fc962ac82d948b4b9e5f83c40"
-metafile = true
-
-[[files]]
-file = "mods/mycraftdragons-1.0.1.jar"
-hash = "cd9435c8b9b69892adbbe305a034ec8f593ee5b538e0458ba382fb65d6ecf6bc"
