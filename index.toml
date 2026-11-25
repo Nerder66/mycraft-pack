@@ -3130,8 +3130,8 @@ hash = "fafac915fbbd344b5c5945f6c4ea05e24950b28762d9befe843b8fba297e92a7"
 metafile = true
 
 [[files]]
-file = "mods/mycraftbiomebalance-1.4.3.jar"
-hash = "2f1091c247544899f1c7c9b30d238e6b2da23dc8638690963ea6e1f852488bc1"
+file = "mods/mycraftbiomebalance-1.5.0.jar"
+hash = "e2b8ed7693c54cd23b07880facdc4f83fa67f8c5cf1d61f859bfec7ac0de26a0"
 
 [[files]]
 file = "mods/mycraftdragons-1.0.1.jar"
