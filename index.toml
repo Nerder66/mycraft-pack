@@ -2905,6 +2905,11 @@ hash = "0a06ac834a143b9ec26e9c9305aec31769f90348a1a10c22c74f12b5e5ecf48a"
 metafile = true
 
 [[files]]
+file = "mods/create_aeronautics_transmission_linkage-0.2.5.pw.toml"
+hash = "fec1a804af60a29865851eac6337d3f55ef663931e29db1d132d946a5b16bc04"
+metafile = true
+
+[[files]]
 file = "mods/create_power_loader-2.0.5-mc1.21.1.pw.toml"
 hash = "dfb296500e66b400166d8cd8091e36c55ebc70b2c212c9aae27cf5b67b2aaaa5"
 metafile = true
