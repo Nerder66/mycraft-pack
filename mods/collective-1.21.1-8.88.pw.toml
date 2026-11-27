@@ -1,0 +1,13 @@
+name = "collective-1.21.1-8.88"
+filename = "collective-1.21.1-8.88.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/MOZ0Ulou/collective-1.21.1-8.88.jar"
+hash-format = "sha1"
+hash = "5cd4ac6351641a06f70190af91c3d55a0f946c2a"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "MOZ0Ulou"

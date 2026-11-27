@@ -1,0 +1,13 @@
+name = "not_enough_glyphs-1.21.1-4.6.4"
+filename = "not_enough_glyphs-1.21.1-4.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WgAFDDv0/versions/6KubeD5s/not_enough_glyphs-1.21.1-4.6.4.jar"
+hash-format = "sha1"
+hash = "2f2daf0305317cd640015489c8762775b4d07307"
+
+[update]
+[update.modrinth]
+mod-id = "WgAFDDv0"
+version = "6KubeD5s"
